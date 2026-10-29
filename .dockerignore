@@ -1,0 +1,11 @@
+.git
+.venv
+**/__pycache__
+**/.pytest_cache
+web/node_modules
+web/.next
+data/generated
+transformations/dbt/target
+transformations/dbt/logs
+*.md
+!README.md

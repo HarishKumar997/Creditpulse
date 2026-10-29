@@ -1,0 +1,111 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: creditpulse
+      POSTGRES_PASSWORD: creditpulse
+      POSTGRES_DB: creditpulse
+    ports:
+      - "5432:5432"
+    volumes:
+      - creditpulse_pg:/var/lib/postgresql/data
+      - ../warehouse/sql:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U creditpulse -d creditpulse"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  pipeline:
+    profiles: ["pipeline"]
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_USER: creditpulse
+      POSTGRES_PASSWORD: creditpulse
+      POSTGRES_DB: creditpulse
+      PYTHONPATH: /work/src
+      DBT_SEND_ANONYMOUS_USAGE_STATS: "false"
+      CREDITPULSE_SPARK_MASTER: local[2]
+    volumes:
+      - ..:/work
+    working_dir: /work
+    depends_on:
+      postgres:
+        condition: service_healthy
+    entrypoint: ["python"]
+
+  airflow-init:
+    profiles: ["orchestrate"]
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile.airflow
+    environment: &airflow-env
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://creditpulse:creditpulse@postgres:5432/airflow
+      AIRFLOW__CORE__FERNET_KEY: "MDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODlhYmNkZWY="
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "false"
+      AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "false"
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: "5432"
+      POSTGRES_USER: creditpulse
+      POSTGRES_PASSWORD: creditpulse
+      POSTGRES_DB: creditpulse
+      PYTHONPATH: /opt/airflow/project/src
+      CREDITPULSE_DATA_DIR: /opt/airflow/project/data/generated
+      DBT_PROFILES_DIR: /opt/airflow/project/transformations/dbt
+      DBT_SEND_ANONYMOUS_USAGE_STATS: "false"
+    volumes: &airflow-volumes
+      - ..:/opt/airflow/project
+      - ../orchestration/airflow/dags:/opt/airflow/dags
+    user: "0:0"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    entrypoint: ["/bin/bash", "-c"]
+    command:
+      - |
+        airflow db migrate &&
+        airflow users create --username admin --password admin --firstname Local --lastname Dev --role Admin --email admin@local.dev || true
+    restart: "no"
+
+  airflow-webserver:
+    profiles: ["orchestrate"]
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile.airflow
+    environment: *airflow-env
+    volumes: *airflow-volumes
+    user: "0:0"
+    command: webserver
+    ports:
+      - "8080:8080"
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health')\""]
+      interval: 15s
+      timeout: 10s
+      retries: 20
+      start_period: 40s
+
+  airflow-scheduler:
+    profiles: ["orchestrate"]
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile.airflow
+    environment: *airflow-env
+    volumes: *airflow-volumes
+    user: "0:0"
+    command: scheduler
+    depends_on:
+      airflow-init:
+        condition: service_completed_successfully
+
+volumes:
+  creditpulse_pg:

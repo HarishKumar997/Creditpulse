@@ -1,0 +1,4806 @@
+{
+  "schema_version": "1",
+  "disclaimer": "Synthetic demonstration data only. CreditPulse does not make lending decisions and is not a credit bureau.",
+  "rows": [
+    {
+      "report_date": "2024-09-01",
+      "product_code": "AL",
+      "repayment_count": 187,
+      "loan_count": 166,
+      "due_amount": "77750.01",
+      "paid_amount": "24906.32",
+      "repayment_completion_rate": "0.3203",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-09-01",
+      "product_code": "CC",
+      "repayment_count": 210,
+      "loan_count": 185,
+      "due_amount": "90150.55",
+      "paid_amount": "35122.94",
+      "repayment_completion_rate": "0.3896",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-09-01",
+      "product_code": "HL",
+      "repayment_count": 197,
+      "loan_count": 178,
+      "due_amount": "85345.02",
+      "paid_amount": "28020.82",
+      "repayment_completion_rate": "0.3283",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-09-01",
+      "product_code": "PL",
+      "repayment_count": 221,
+      "loan_count": 202,
+      "due_amount": "91641.41",
+      "paid_amount": "30590.97",
+      "repayment_completion_rate": "0.3338",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-02",
+      "product_code": "AL",
+      "repayment_count": 206,
+      "loan_count": 179,
+      "due_amount": "85333.00",
+      "paid_amount": "26450.49",
+      "repayment_completion_rate": "0.3100",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-09-02",
+      "product_code": "CC",
+      "repayment_count": 244,
+      "loan_count": 217,
+      "due_amount": "97071.15",
+      "paid_amount": "31161.37",
+      "repayment_completion_rate": "0.3210",
+      "delinquent_event_count": 195
+    },
+    {
+      "report_date": "2024-09-02",
+      "product_code": "HL",
+      "repayment_count": 189,
+      "loan_count": 180,
+      "due_amount": "77296.26",
+      "paid_amount": "24999.77",
+      "repayment_completion_rate": "0.3234",
+      "delinquent_event_count": 147
+    },
+    {
+      "report_date": "2024-09-02",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 208,
+      "due_amount": "95149.71",
+      "paid_amount": "30103.92",
+      "repayment_completion_rate": "0.3164",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-09-03",
+      "product_code": "AL",
+      "repayment_count": 195,
+      "loan_count": 178,
+      "due_amount": "75491.23",
+      "paid_amount": "23018.39",
+      "repayment_completion_rate": "0.3049",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-09-03",
+      "product_code": "CC",
+      "repayment_count": 231,
+      "loan_count": 207,
+      "due_amount": "96890.44",
+      "paid_amount": "31143.11",
+      "repayment_completion_rate": "0.3214",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-09-03",
+      "product_code": "HL",
+      "repayment_count": 222,
+      "loan_count": 204,
+      "due_amount": "86182.37",
+      "paid_amount": "30155.27",
+      "repayment_completion_rate": "0.3499",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-03",
+      "product_code": "PL",
+      "repayment_count": 211,
+      "loan_count": 186,
+      "due_amount": "87639.31",
+      "paid_amount": "31328.81",
+      "repayment_completion_rate": "0.3575",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-09-04",
+      "product_code": "AL",
+      "repayment_count": 205,
+      "loan_count": 189,
+      "due_amount": "81551.73",
+      "paid_amount": "28902.57",
+      "repayment_completion_rate": "0.3544",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-09-04",
+      "product_code": "CC",
+      "repayment_count": 196,
+      "loan_count": 181,
+      "due_amount": "77382.86",
+      "paid_amount": "25384.19",
+      "repayment_completion_rate": "0.3280",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-09-04",
+      "product_code": "HL",
+      "repayment_count": 156,
+      "loan_count": 146,
+      "due_amount": "63769.06",
+      "paid_amount": "20539.40",
+      "repayment_completion_rate": "0.3221",
+      "delinquent_event_count": 123
+    },
+    {
+      "report_date": "2024-09-04",
+      "product_code": "PL",
+      "repayment_count": 235,
+      "loan_count": 210,
+      "due_amount": "94414.39",
+      "paid_amount": "30885.07",
+      "repayment_completion_rate": "0.3271",
+      "delinquent_event_count": 189
+    },
+    {
+      "report_date": "2024-09-05",
+      "product_code": "AL",
+      "repayment_count": 206,
+      "loan_count": 191,
+      "due_amount": "84345.50",
+      "paid_amount": "25921.42",
+      "repayment_completion_rate": "0.3073",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-09-05",
+      "product_code": "CC",
+      "repayment_count": 224,
+      "loan_count": 200,
+      "due_amount": "92856.59",
+      "paid_amount": "26129.53",
+      "repayment_completion_rate": "0.2814",
+      "delinquent_event_count": 187
+    },
+    {
+      "report_date": "2024-09-05",
+      "product_code": "HL",
+      "repayment_count": 188,
+      "loan_count": 176,
+      "due_amount": "76651.20",
+      "paid_amount": "20996.63",
+      "repayment_completion_rate": "0.2739",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-09-05",
+      "product_code": "PL",
+      "repayment_count": 207,
+      "loan_count": 191,
+      "due_amount": "86963.52",
+      "paid_amount": "24684.58",
+      "repayment_completion_rate": "0.2838",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-09-06",
+      "product_code": "AL",
+      "repayment_count": 218,
+      "loan_count": 199,
+      "due_amount": "88019.04",
+      "paid_amount": "26761.96",
+      "repayment_completion_rate": "0.3040",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-06",
+      "product_code": "CC",
+      "repayment_count": 186,
+      "loan_count": 172,
+      "due_amount": "76840.64",
+      "paid_amount": "21370.13",
+      "repayment_completion_rate": "0.2781",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-09-06",
+      "product_code": "HL",
+      "repayment_count": 194,
+      "loan_count": 175,
+      "due_amount": "78424.06",
+      "paid_amount": "22576.94",
+      "repayment_completion_rate": "0.2879",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-09-06",
+      "product_code": "PL",
+      "repayment_count": 217,
+      "loan_count": 198,
+      "due_amount": "89894.00",
+      "paid_amount": "28117.69",
+      "repayment_completion_rate": "0.3128",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-07",
+      "product_code": "AL",
+      "repayment_count": 227,
+      "loan_count": 206,
+      "due_amount": "90831.02",
+      "paid_amount": "28912.57",
+      "repayment_completion_rate": "0.3183",
+      "delinquent_event_count": 189
+    },
+    {
+      "report_date": "2024-09-07",
+      "product_code": "CC",
+      "repayment_count": 214,
+      "loan_count": 200,
+      "due_amount": "90155.34",
+      "paid_amount": "26246.73",
+      "repayment_completion_rate": "0.2911",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-09-07",
+      "product_code": "HL",
+      "repayment_count": 226,
+      "loan_count": 200,
+      "due_amount": "91109.14",
+      "paid_amount": "28715.84",
+      "repayment_completion_rate": "0.3152",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-07",
+      "product_code": "PL",
+      "repayment_count": 222,
+      "loan_count": 199,
+      "due_amount": "89889.34",
+      "paid_amount": "31722.52",
+      "repayment_completion_rate": "0.3529",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-08",
+      "product_code": "AL",
+      "repayment_count": 203,
+      "loan_count": 186,
+      "due_amount": "80505.64",
+      "paid_amount": "28478.58",
+      "repayment_completion_rate": "0.3537",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-09-08",
+      "product_code": "CC",
+      "repayment_count": 221,
+      "loan_count": 202,
+      "due_amount": "93694.58",
+      "paid_amount": "26886.86",
+      "repayment_completion_rate": "0.2870",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-09-08",
+      "product_code": "HL",
+      "repayment_count": 207,
+      "loan_count": 190,
+      "due_amount": "81731.48",
+      "paid_amount": "25833.49",
+      "repayment_completion_rate": "0.3161",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-09-08",
+      "product_code": "PL",
+      "repayment_count": 225,
+      "loan_count": 200,
+      "due_amount": "92670.29",
+      "paid_amount": "26147.42",
+      "repayment_completion_rate": "0.2822",
+      "delinquent_event_count": 185
+    },
+    {
+      "report_date": "2024-09-09",
+      "product_code": "AL",
+      "repayment_count": 220,
+      "loan_count": 200,
+      "due_amount": "86709.96",
+      "paid_amount": "26754.86",
+      "repayment_completion_rate": "0.3086",
+      "delinquent_event_count": 184
+    },
+    {
+      "report_date": "2024-09-09",
+      "product_code": "CC",
+      "repayment_count": 190,
+      "loan_count": 172,
+      "due_amount": "78016.92",
+      "paid_amount": "23342.49",
+      "repayment_completion_rate": "0.2992",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-09-09",
+      "product_code": "HL",
+      "repayment_count": 186,
+      "loan_count": 177,
+      "due_amount": "74830.68",
+      "paid_amount": "25823.72",
+      "repayment_completion_rate": "0.3451",
+      "delinquent_event_count": 146
+    },
+    {
+      "report_date": "2024-09-09",
+      "product_code": "PL",
+      "repayment_count": 235,
+      "loan_count": 208,
+      "due_amount": "94668.63",
+      "paid_amount": "26096.06",
+      "repayment_completion_rate": "0.2757",
+      "delinquent_event_count": 201
+    },
+    {
+      "report_date": "2024-09-10",
+      "product_code": "AL",
+      "repayment_count": 197,
+      "loan_count": 183,
+      "due_amount": "81206.08",
+      "paid_amount": "24672.22",
+      "repayment_completion_rate": "0.3038",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-10",
+      "product_code": "CC",
+      "repayment_count": 190,
+      "loan_count": 170,
+      "due_amount": "79436.33",
+      "paid_amount": "29443.35",
+      "repayment_completion_rate": "0.3707",
+      "delinquent_event_count": 146
+    },
+    {
+      "report_date": "2024-09-10",
+      "product_code": "HL",
+      "repayment_count": 205,
+      "loan_count": 188,
+      "due_amount": "87753.15",
+      "paid_amount": "26977.97",
+      "repayment_completion_rate": "0.3074",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-09-10",
+      "product_code": "PL",
+      "repayment_count": 209,
+      "loan_count": 191,
+      "due_amount": "87138.93",
+      "paid_amount": "24372.42",
+      "repayment_completion_rate": "0.2797",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-11",
+      "product_code": "AL",
+      "repayment_count": 202,
+      "loan_count": 181,
+      "due_amount": "82286.67",
+      "paid_amount": "26041.88",
+      "repayment_completion_rate": "0.3165",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-09-11",
+      "product_code": "CC",
+      "repayment_count": 229,
+      "loan_count": 210,
+      "due_amount": "97664.39",
+      "paid_amount": "32941.45",
+      "repayment_completion_rate": "0.3373",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-09-11",
+      "product_code": "HL",
+      "repayment_count": 169,
+      "loan_count": 154,
+      "due_amount": "67942.48",
+      "paid_amount": "27456.41",
+      "repayment_completion_rate": "0.4041",
+      "delinquent_event_count": 129
+    },
+    {
+      "report_date": "2024-09-11",
+      "product_code": "PL",
+      "repayment_count": 213,
+      "loan_count": 192,
+      "due_amount": "90587.64",
+      "paid_amount": "25948.40",
+      "repayment_completion_rate": "0.2864",
+      "delinquent_event_count": 180
+    },
+    {
+      "report_date": "2024-09-12",
+      "product_code": "AL",
+      "repayment_count": 199,
+      "loan_count": 178,
+      "due_amount": "80371.17",
+      "paid_amount": "25116.91",
+      "repayment_completion_rate": "0.3125",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-09-12",
+      "product_code": "CC",
+      "repayment_count": 227,
+      "loan_count": 203,
+      "due_amount": "95376.75",
+      "paid_amount": "32979.97",
+      "repayment_completion_rate": "0.3458",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-12",
+      "product_code": "HL",
+      "repayment_count": 205,
+      "loan_count": 187,
+      "due_amount": "86404.51",
+      "paid_amount": "23858.94",
+      "repayment_completion_rate": "0.2761",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-09-12",
+      "product_code": "PL",
+      "repayment_count": 231,
+      "loan_count": 204,
+      "due_amount": "102415.64",
+      "paid_amount": "35702.26",
+      "repayment_completion_rate": "0.3486",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-09-13",
+      "product_code": "AL",
+      "repayment_count": 226,
+      "loan_count": 201,
+      "due_amount": "95791.65",
+      "paid_amount": "37116.09",
+      "repayment_completion_rate": "0.3875",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-09-13",
+      "product_code": "CC",
+      "repayment_count": 208,
+      "loan_count": 192,
+      "due_amount": "83011.56",
+      "paid_amount": "25163.10",
+      "repayment_completion_rate": "0.3031",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-09-13",
+      "product_code": "HL",
+      "repayment_count": 185,
+      "loan_count": 169,
+      "due_amount": "79166.02",
+      "paid_amount": "22271.60",
+      "repayment_completion_rate": "0.2813",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-09-13",
+      "product_code": "PL",
+      "repayment_count": 207,
+      "loan_count": 190,
+      "due_amount": "84925.30",
+      "paid_amount": "26924.66",
+      "repayment_completion_rate": "0.3170",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-14",
+      "product_code": "AL",
+      "repayment_count": 207,
+      "loan_count": 188,
+      "due_amount": "78920.74",
+      "paid_amount": "25353.45",
+      "repayment_completion_rate": "0.3213",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-09-14",
+      "product_code": "CC",
+      "repayment_count": 218,
+      "loan_count": 195,
+      "due_amount": "86215.09",
+      "paid_amount": "26773.07",
+      "repayment_completion_rate": "0.3105",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-09-14",
+      "product_code": "HL",
+      "repayment_count": 214,
+      "loan_count": 195,
+      "due_amount": "85487.72",
+      "paid_amount": "24117.83",
+      "repayment_completion_rate": "0.2821",
+      "delinquent_event_count": 185
+    },
+    {
+      "report_date": "2024-09-14",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 195,
+      "due_amount": "86816.29",
+      "paid_amount": "31942.48",
+      "repayment_completion_rate": "0.3679",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-09-15",
+      "product_code": "AL",
+      "repayment_count": 205,
+      "loan_count": 176,
+      "due_amount": "84355.40",
+      "paid_amount": "28483.32",
+      "repayment_completion_rate": "0.3377",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-15",
+      "product_code": "CC",
+      "repayment_count": 209,
+      "loan_count": 192,
+      "due_amount": "92534.19",
+      "paid_amount": "29813.45",
+      "repayment_completion_rate": "0.3222",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-15",
+      "product_code": "HL",
+      "repayment_count": 224,
+      "loan_count": 205,
+      "due_amount": "90982.14",
+      "paid_amount": "31779.74",
+      "repayment_completion_rate": "0.3493",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-09-15",
+      "product_code": "PL",
+      "repayment_count": 213,
+      "loan_count": 194,
+      "due_amount": "90318.41",
+      "paid_amount": "26388.76",
+      "repayment_completion_rate": "0.2922",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-16",
+      "product_code": "AL",
+      "repayment_count": 209,
+      "loan_count": 191,
+      "due_amount": "86111.93",
+      "paid_amount": "26429.41",
+      "repayment_completion_rate": "0.3069",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-09-16",
+      "product_code": "CC",
+      "repayment_count": 226,
+      "loan_count": 200,
+      "due_amount": "96707.98",
+      "paid_amount": "30100.49",
+      "repayment_completion_rate": "0.3113",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-09-16",
+      "product_code": "HL",
+      "repayment_count": 200,
+      "loan_count": 182,
+      "due_amount": "82420.72",
+      "paid_amount": "26165.83",
+      "repayment_completion_rate": "0.3175",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-09-16",
+      "product_code": "PL",
+      "repayment_count": 219,
+      "loan_count": 202,
+      "due_amount": "97068.00",
+      "paid_amount": "29646.16",
+      "repayment_completion_rate": "0.3054",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-17",
+      "product_code": "AL",
+      "repayment_count": 179,
+      "loan_count": 160,
+      "due_amount": "69757.60",
+      "paid_amount": "22786.12",
+      "repayment_completion_rate": "0.3266",
+      "delinquent_event_count": 142
+    },
+    {
+      "report_date": "2024-09-17",
+      "product_code": "CC",
+      "repayment_count": 235,
+      "loan_count": 208,
+      "due_amount": "94475.71",
+      "paid_amount": "35105.26",
+      "repayment_completion_rate": "0.3716",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-09-17",
+      "product_code": "HL",
+      "repayment_count": 208,
+      "loan_count": 185,
+      "due_amount": "81621.89",
+      "paid_amount": "24323.43",
+      "repayment_completion_rate": "0.2980",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-09-17",
+      "product_code": "PL",
+      "repayment_count": 218,
+      "loan_count": 201,
+      "due_amount": "87873.65",
+      "paid_amount": "28375.69",
+      "repayment_completion_rate": "0.3229",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-09-18",
+      "product_code": "AL",
+      "repayment_count": 213,
+      "loan_count": 193,
+      "due_amount": "91764.51",
+      "paid_amount": "32656.70",
+      "repayment_completion_rate": "0.3559",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-18",
+      "product_code": "CC",
+      "repayment_count": 206,
+      "loan_count": 192,
+      "due_amount": "83613.43",
+      "paid_amount": "28172.83",
+      "repayment_completion_rate": "0.3369",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-18",
+      "product_code": "HL",
+      "repayment_count": 186,
+      "loan_count": 169,
+      "due_amount": "77101.87",
+      "paid_amount": "26571.21",
+      "repayment_completion_rate": "0.3446",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-09-18",
+      "product_code": "PL",
+      "repayment_count": 208,
+      "loan_count": 183,
+      "due_amount": "86250.29",
+      "paid_amount": "24158.53",
+      "repayment_completion_rate": "0.2801",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-09-19",
+      "product_code": "AL",
+      "repayment_count": 181,
+      "loan_count": 166,
+      "due_amount": "73826.77",
+      "paid_amount": "25739.48",
+      "repayment_completion_rate": "0.3486",
+      "delinquent_event_count": 145
+    },
+    {
+      "report_date": "2024-09-19",
+      "product_code": "CC",
+      "repayment_count": 220,
+      "loan_count": 208,
+      "due_amount": "88600.82",
+      "paid_amount": "29343.02",
+      "repayment_completion_rate": "0.3312",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-09-19",
+      "product_code": "HL",
+      "repayment_count": 184,
+      "loan_count": 165,
+      "due_amount": "77430.62",
+      "paid_amount": "27346.37",
+      "repayment_completion_rate": "0.3532",
+      "delinquent_event_count": 137
+    },
+    {
+      "report_date": "2024-09-19",
+      "product_code": "PL",
+      "repayment_count": 219,
+      "loan_count": 191,
+      "due_amount": "86855.79",
+      "paid_amount": "29772.92",
+      "repayment_completion_rate": "0.3428",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-09-20",
+      "product_code": "AL",
+      "repayment_count": 218,
+      "loan_count": 198,
+      "due_amount": "91637.75",
+      "paid_amount": "26444.28",
+      "repayment_completion_rate": "0.2886",
+      "delinquent_event_count": 183
+    },
+    {
+      "report_date": "2024-09-20",
+      "product_code": "CC",
+      "repayment_count": 224,
+      "loan_count": 199,
+      "due_amount": "94882.85",
+      "paid_amount": "28377.05",
+      "repayment_completion_rate": "0.2991",
+      "delinquent_event_count": 188
+    },
+    {
+      "report_date": "2024-09-20",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 182,
+      "due_amount": "83558.07",
+      "paid_amount": "29067.59",
+      "repayment_completion_rate": "0.3479",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-09-20",
+      "product_code": "PL",
+      "repayment_count": 225,
+      "loan_count": 209,
+      "due_amount": "87783.38",
+      "paid_amount": "24492.41",
+      "repayment_completion_rate": "0.2790",
+      "delinquent_event_count": 192
+    },
+    {
+      "report_date": "2024-09-21",
+      "product_code": "AL",
+      "repayment_count": 183,
+      "loan_count": 174,
+      "due_amount": "74777.11",
+      "paid_amount": "21155.26",
+      "repayment_completion_rate": "0.2829",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-09-21",
+      "product_code": "CC",
+      "repayment_count": 206,
+      "loan_count": 191,
+      "due_amount": "84400.76",
+      "paid_amount": "24329.35",
+      "repayment_completion_rate": "0.2883",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-09-21",
+      "product_code": "HL",
+      "repayment_count": 223,
+      "loan_count": 204,
+      "due_amount": "85623.17",
+      "paid_amount": "28040.06",
+      "repayment_completion_rate": "0.3275",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-21",
+      "product_code": "PL",
+      "repayment_count": 195,
+      "loan_count": 178,
+      "due_amount": "84836.18",
+      "paid_amount": "23649.72",
+      "repayment_completion_rate": "0.2788",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-22",
+      "product_code": "AL",
+      "repayment_count": 200,
+      "loan_count": 182,
+      "due_amount": "80968.19",
+      "paid_amount": "24355.33",
+      "repayment_completion_rate": "0.3008",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-09-22",
+      "product_code": "CC",
+      "repayment_count": 198,
+      "loan_count": 178,
+      "due_amount": "79043.71",
+      "paid_amount": "28162.47",
+      "repayment_completion_rate": "0.3563",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-09-22",
+      "product_code": "HL",
+      "repayment_count": 216,
+      "loan_count": 196,
+      "due_amount": "86052.49",
+      "paid_amount": "30077.26",
+      "repayment_completion_rate": "0.3495",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-22",
+      "product_code": "PL",
+      "repayment_count": 205,
+      "loan_count": 187,
+      "due_amount": "82735.03",
+      "paid_amount": "26088.74",
+      "repayment_completion_rate": "0.3153",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-09-23",
+      "product_code": "AL",
+      "repayment_count": 199,
+      "loan_count": 186,
+      "due_amount": "82349.68",
+      "paid_amount": "27230.38",
+      "repayment_completion_rate": "0.3307",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-09-23",
+      "product_code": "CC",
+      "repayment_count": 227,
+      "loan_count": 205,
+      "due_amount": "93559.64",
+      "paid_amount": "29173.07",
+      "repayment_completion_rate": "0.3118",
+      "delinquent_event_count": 188
+    },
+    {
+      "report_date": "2024-09-23",
+      "product_code": "HL",
+      "repayment_count": 219,
+      "loan_count": 198,
+      "due_amount": "85204.27",
+      "paid_amount": "26288.01",
+      "repayment_completion_rate": "0.3085",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-23",
+      "product_code": "PL",
+      "repayment_count": 224,
+      "loan_count": 211,
+      "due_amount": "91920.63",
+      "paid_amount": "28386.78",
+      "repayment_completion_rate": "0.3088",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-24",
+      "product_code": "AL",
+      "repayment_count": 172,
+      "loan_count": 158,
+      "due_amount": "70657.44",
+      "paid_amount": "20557.25",
+      "repayment_completion_rate": "0.2909",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-09-24",
+      "product_code": "CC",
+      "repayment_count": 179,
+      "loan_count": 166,
+      "due_amount": "77019.01",
+      "paid_amount": "20567.71",
+      "repayment_completion_rate": "0.2670",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-09-24",
+      "product_code": "HL",
+      "repayment_count": 222,
+      "loan_count": 202,
+      "due_amount": "92330.93",
+      "paid_amount": "32912.46",
+      "repayment_completion_rate": "0.3565",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-09-24",
+      "product_code": "PL",
+      "repayment_count": 202,
+      "loan_count": 183,
+      "due_amount": "80738.67",
+      "paid_amount": "28665.91",
+      "repayment_completion_rate": "0.3550",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-09-25",
+      "product_code": "AL",
+      "repayment_count": 187,
+      "loan_count": 171,
+      "due_amount": "75714.21",
+      "paid_amount": "23127.54",
+      "repayment_completion_rate": "0.3055",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-09-25",
+      "product_code": "CC",
+      "repayment_count": 225,
+      "loan_count": 209,
+      "due_amount": "90233.51",
+      "paid_amount": "29870.56",
+      "repayment_completion_rate": "0.3310",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-09-25",
+      "product_code": "HL",
+      "repayment_count": 211,
+      "loan_count": 183,
+      "due_amount": "86800.74",
+      "paid_amount": "28167.30",
+      "repayment_completion_rate": "0.3245",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-09-25",
+      "product_code": "PL",
+      "repayment_count": 212,
+      "loan_count": 191,
+      "due_amount": "82705.72",
+      "paid_amount": "28507.10",
+      "repayment_completion_rate": "0.3447",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-26",
+      "product_code": "AL",
+      "repayment_count": 192,
+      "loan_count": 176,
+      "due_amount": "76102.32",
+      "paid_amount": "20601.60",
+      "repayment_completion_rate": "0.2707",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-09-26",
+      "product_code": "CC",
+      "repayment_count": 216,
+      "loan_count": 198,
+      "due_amount": "86571.01",
+      "paid_amount": "28184.66",
+      "repayment_completion_rate": "0.3256",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-26",
+      "product_code": "HL",
+      "repayment_count": 205,
+      "loan_count": 187,
+      "due_amount": "84990.58",
+      "paid_amount": "26421.07",
+      "repayment_completion_rate": "0.3109",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-09-26",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 191,
+      "due_amount": "86440.30",
+      "paid_amount": "26322.64",
+      "repayment_completion_rate": "0.3045",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-09-27",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 192,
+      "due_amount": "84494.49",
+      "paid_amount": "28012.54",
+      "repayment_completion_rate": "0.3315",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-09-27",
+      "product_code": "CC",
+      "repayment_count": 181,
+      "loan_count": 166,
+      "due_amount": "75508.99",
+      "paid_amount": "23876.18",
+      "repayment_completion_rate": "0.3162",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-09-27",
+      "product_code": "HL",
+      "repayment_count": 188,
+      "loan_count": 166,
+      "due_amount": "82466.15",
+      "paid_amount": "28023.59",
+      "repayment_completion_rate": "0.3398",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-09-27",
+      "product_code": "PL",
+      "repayment_count": 205,
+      "loan_count": 181,
+      "due_amount": "85727.53",
+      "paid_amount": "25499.09",
+      "repayment_completion_rate": "0.2974",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-09-28",
+      "product_code": "AL",
+      "repayment_count": 215,
+      "loan_count": 195,
+      "due_amount": "88411.71",
+      "paid_amount": "27258.98",
+      "repayment_completion_rate": "0.3083",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-28",
+      "product_code": "CC",
+      "repayment_count": 201,
+      "loan_count": 188,
+      "due_amount": "80374.48",
+      "paid_amount": "24329.93",
+      "repayment_completion_rate": "0.3027",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-09-28",
+      "product_code": "HL",
+      "repayment_count": 220,
+      "loan_count": 201,
+      "due_amount": "88686.30",
+      "paid_amount": "30719.92",
+      "repayment_completion_rate": "0.3464",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-09-28",
+      "product_code": "PL",
+      "repayment_count": 212,
+      "loan_count": 199,
+      "due_amount": "87175.37",
+      "paid_amount": "23994.95",
+      "repayment_completion_rate": "0.2752",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-09-29",
+      "product_code": "AL",
+      "repayment_count": 199,
+      "loan_count": 184,
+      "due_amount": "77030.03",
+      "paid_amount": "27600.11",
+      "repayment_completion_rate": "0.3583",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-09-29",
+      "product_code": "CC",
+      "repayment_count": 234,
+      "loan_count": 208,
+      "due_amount": "102491.21",
+      "paid_amount": "33122.09",
+      "repayment_completion_rate": "0.3232",
+      "delinquent_event_count": 191
+    },
+    {
+      "report_date": "2024-09-29",
+      "product_code": "HL",
+      "repayment_count": 188,
+      "loan_count": 175,
+      "due_amount": "75656.14",
+      "paid_amount": "18791.53",
+      "repayment_completion_rate": "0.2484",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-09-29",
+      "product_code": "PL",
+      "repayment_count": 224,
+      "loan_count": 197,
+      "due_amount": "91505.67",
+      "paid_amount": "22214.18",
+      "repayment_completion_rate": "0.2428",
+      "delinquent_event_count": 188
+    },
+    {
+      "report_date": "2024-09-30",
+      "product_code": "AL",
+      "repayment_count": 185,
+      "loan_count": 175,
+      "due_amount": "79848.15",
+      "paid_amount": "22024.91",
+      "repayment_completion_rate": "0.2758",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-09-30",
+      "product_code": "CC",
+      "repayment_count": 232,
+      "loan_count": 216,
+      "due_amount": "92960.40",
+      "paid_amount": "30695.46",
+      "repayment_completion_rate": "0.3302",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-09-30",
+      "product_code": "HL",
+      "repayment_count": 186,
+      "loan_count": 170,
+      "due_amount": "75967.27",
+      "paid_amount": "24653.74",
+      "repayment_completion_rate": "0.3245",
+      "delinquent_event_count": 145
+    },
+    {
+      "report_date": "2024-09-30",
+      "product_code": "PL",
+      "repayment_count": 200,
+      "loan_count": 180,
+      "due_amount": "81616.24",
+      "paid_amount": "20770.23",
+      "repayment_completion_rate": "0.2545",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-01",
+      "product_code": "AL",
+      "repayment_count": 198,
+      "loan_count": 183,
+      "due_amount": "84866.95",
+      "paid_amount": "24716.01",
+      "repayment_completion_rate": "0.2912",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-01",
+      "product_code": "CC",
+      "repayment_count": 216,
+      "loan_count": 190,
+      "due_amount": "84003.19",
+      "paid_amount": "22692.49",
+      "repayment_completion_rate": "0.2701",
+      "delinquent_event_count": 185
+    },
+    {
+      "report_date": "2024-10-01",
+      "product_code": "HL",
+      "repayment_count": 199,
+      "loan_count": 176,
+      "due_amount": "84412.10",
+      "paid_amount": "26937.38",
+      "repayment_completion_rate": "0.3191",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-10-01",
+      "product_code": "PL",
+      "repayment_count": 213,
+      "loan_count": 194,
+      "due_amount": "83468.62",
+      "paid_amount": "29015.49",
+      "repayment_completion_rate": "0.3476",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-10-02",
+      "product_code": "AL",
+      "repayment_count": 216,
+      "loan_count": 190,
+      "due_amount": "95844.23",
+      "paid_amount": "31600.55",
+      "repayment_completion_rate": "0.3297",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-10-02",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 197,
+      "due_amount": "90269.03",
+      "paid_amount": "29526.69",
+      "repayment_completion_rate": "0.3271",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-10-02",
+      "product_code": "HL",
+      "repayment_count": 226,
+      "loan_count": 197,
+      "due_amount": "97756.56",
+      "paid_amount": "31329.53",
+      "repayment_completion_rate": "0.3205",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-10-02",
+      "product_code": "PL",
+      "repayment_count": 194,
+      "loan_count": 175,
+      "due_amount": "76070.15",
+      "paid_amount": "26307.39",
+      "repayment_completion_rate": "0.3458",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-10-03",
+      "product_code": "AL",
+      "repayment_count": 196,
+      "loan_count": 179,
+      "due_amount": "81143.42",
+      "paid_amount": "26087.13",
+      "repayment_completion_rate": "0.3215",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-10-03",
+      "product_code": "CC",
+      "repayment_count": 223,
+      "loan_count": 208,
+      "due_amount": "93299.24",
+      "paid_amount": "28744.78",
+      "repayment_completion_rate": "0.3081",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-10-03",
+      "product_code": "HL",
+      "repayment_count": 201,
+      "loan_count": 187,
+      "due_amount": "85132.94",
+      "paid_amount": "23106.34",
+      "repayment_completion_rate": "0.2714",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-10-03",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 205,
+      "due_amount": "98416.21",
+      "paid_amount": "30086.76",
+      "repayment_completion_rate": "0.3057",
+      "delinquent_event_count": 183
+    },
+    {
+      "report_date": "2024-10-04",
+      "product_code": "AL",
+      "repayment_count": 201,
+      "loan_count": 179,
+      "due_amount": "80712.79",
+      "paid_amount": "27514.45",
+      "repayment_completion_rate": "0.3409",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-10-04",
+      "product_code": "CC",
+      "repayment_count": 214,
+      "loan_count": 198,
+      "due_amount": "88389.12",
+      "paid_amount": "30784.96",
+      "repayment_completion_rate": "0.3483",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-10-04",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 182,
+      "due_amount": "81700.57",
+      "paid_amount": "26683.99",
+      "repayment_completion_rate": "0.3266",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-10-04",
+      "product_code": "PL",
+      "repayment_count": 205,
+      "loan_count": 189,
+      "due_amount": "85205.62",
+      "paid_amount": "25511.97",
+      "repayment_completion_rate": "0.2994",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-10-05",
+      "product_code": "AL",
+      "repayment_count": 192,
+      "loan_count": 177,
+      "due_amount": "79773.74",
+      "paid_amount": "22494.24",
+      "repayment_completion_rate": "0.2820",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-10-05",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 191,
+      "due_amount": "83073.55",
+      "paid_amount": "28858.03",
+      "repayment_completion_rate": "0.3474",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-05",
+      "product_code": "HL",
+      "repayment_count": 212,
+      "loan_count": 194,
+      "due_amount": "86819.80",
+      "paid_amount": "22957.40",
+      "repayment_completion_rate": "0.2644",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-10-05",
+      "product_code": "PL",
+      "repayment_count": 191,
+      "loan_count": 175,
+      "due_amount": "82883.54",
+      "paid_amount": "26010.88",
+      "repayment_completion_rate": "0.3138",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-10-06",
+      "product_code": "AL",
+      "repayment_count": 193,
+      "loan_count": 168,
+      "due_amount": "75057.15",
+      "paid_amount": "24051.69",
+      "repayment_completion_rate": "0.3204",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-10-06",
+      "product_code": "CC",
+      "repayment_count": 219,
+      "loan_count": 198,
+      "due_amount": "89381.11",
+      "paid_amount": "28575.29",
+      "repayment_completion_rate": "0.3197",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-10-06",
+      "product_code": "HL",
+      "repayment_count": 187,
+      "loan_count": 165,
+      "due_amount": "71866.09",
+      "paid_amount": "22548.43",
+      "repayment_completion_rate": "0.3138",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-10-06",
+      "product_code": "PL",
+      "repayment_count": 218,
+      "loan_count": 202,
+      "due_amount": "90305.66",
+      "paid_amount": "30907.71",
+      "repayment_completion_rate": "0.3423",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-07",
+      "product_code": "AL",
+      "repayment_count": 200,
+      "loan_count": 183,
+      "due_amount": "83265.70",
+      "paid_amount": "23911.43",
+      "repayment_completion_rate": "0.2872",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-10-07",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 203,
+      "due_amount": "89194.99",
+      "paid_amount": "29433.51",
+      "repayment_completion_rate": "0.3300",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-10-07",
+      "product_code": "HL",
+      "repayment_count": 216,
+      "loan_count": 197,
+      "due_amount": "91248.05",
+      "paid_amount": "25471.41",
+      "repayment_completion_rate": "0.2791",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-10-07",
+      "product_code": "PL",
+      "repayment_count": 202,
+      "loan_count": 183,
+      "due_amount": "87236.50",
+      "paid_amount": "27535.19",
+      "repayment_completion_rate": "0.3156",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-10-08",
+      "product_code": "AL",
+      "repayment_count": 228,
+      "loan_count": 209,
+      "due_amount": "92440.86",
+      "paid_amount": "29611.24",
+      "repayment_completion_rate": "0.3203",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-10-08",
+      "product_code": "CC",
+      "repayment_count": 243,
+      "loan_count": 218,
+      "due_amount": "101555.34",
+      "paid_amount": "31657.47",
+      "repayment_completion_rate": "0.3117",
+      "delinquent_event_count": 194
+    },
+    {
+      "report_date": "2024-10-08",
+      "product_code": "HL",
+      "repayment_count": 207,
+      "loan_count": 188,
+      "due_amount": "90157.84",
+      "paid_amount": "30278.16",
+      "repayment_completion_rate": "0.3358",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-10-08",
+      "product_code": "PL",
+      "repayment_count": 214,
+      "loan_count": 195,
+      "due_amount": "89827.38",
+      "paid_amount": "31647.51",
+      "repayment_completion_rate": "0.3523",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-10-09",
+      "product_code": "AL",
+      "repayment_count": 197,
+      "loan_count": 182,
+      "due_amount": "79026.76",
+      "paid_amount": "25102.64",
+      "repayment_completion_rate": "0.3176",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-10-09",
+      "product_code": "CC",
+      "repayment_count": 203,
+      "loan_count": 182,
+      "due_amount": "80829.54",
+      "paid_amount": "27439.23",
+      "repayment_completion_rate": "0.3395",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-10-09",
+      "product_code": "HL",
+      "repayment_count": 182,
+      "loan_count": 170,
+      "due_amount": "71610.21",
+      "paid_amount": "19405.50",
+      "repayment_completion_rate": "0.2710",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-10-09",
+      "product_code": "PL",
+      "repayment_count": 204,
+      "loan_count": 184,
+      "due_amount": "86745.90",
+      "paid_amount": "28697.01",
+      "repayment_completion_rate": "0.3308",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-10",
+      "product_code": "AL",
+      "repayment_count": 216,
+      "loan_count": 189,
+      "due_amount": "86569.75",
+      "paid_amount": "29036.33",
+      "repayment_completion_rate": "0.3354",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-10-10",
+      "product_code": "CC",
+      "repayment_count": 205,
+      "loan_count": 191,
+      "due_amount": "78247.84",
+      "paid_amount": "28484.15",
+      "repayment_completion_rate": "0.3640",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-10-10",
+      "product_code": "HL",
+      "repayment_count": 195,
+      "loan_count": 173,
+      "due_amount": "83125.89",
+      "paid_amount": "28980.37",
+      "repayment_completion_rate": "0.3486",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-10-10",
+      "product_code": "PL",
+      "repayment_count": 192,
+      "loan_count": 175,
+      "due_amount": "78020.28",
+      "paid_amount": "27480.28",
+      "repayment_completion_rate": "0.3522",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-10-11",
+      "product_code": "AL",
+      "repayment_count": 229,
+      "loan_count": 199,
+      "due_amount": "89275.58",
+      "paid_amount": "26364.43",
+      "repayment_completion_rate": "0.2953",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-10-11",
+      "product_code": "CC",
+      "repayment_count": 203,
+      "loan_count": 184,
+      "due_amount": "80546.36",
+      "paid_amount": "29809.04",
+      "repayment_completion_rate": "0.3701",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-10-11",
+      "product_code": "HL",
+      "repayment_count": 208,
+      "loan_count": 185,
+      "due_amount": "82417.38",
+      "paid_amount": "26628.53",
+      "repayment_completion_rate": "0.3231",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-10-11",
+      "product_code": "PL",
+      "repayment_count": 192,
+      "loan_count": 179,
+      "due_amount": "80119.15",
+      "paid_amount": "25428.48",
+      "repayment_completion_rate": "0.3174",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-10-12",
+      "product_code": "AL",
+      "repayment_count": 186,
+      "loan_count": 175,
+      "due_amount": "79778.18",
+      "paid_amount": "24881.38",
+      "repayment_completion_rate": "0.3119",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-10-12",
+      "product_code": "CC",
+      "repayment_count": 205,
+      "loan_count": 195,
+      "due_amount": "85370.05",
+      "paid_amount": "28060.52",
+      "repayment_completion_rate": "0.3287",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-10-12",
+      "product_code": "HL",
+      "repayment_count": 176,
+      "loan_count": 160,
+      "due_amount": "70588.82",
+      "paid_amount": "25736.09",
+      "repayment_completion_rate": "0.3646",
+      "delinquent_event_count": 139
+    },
+    {
+      "report_date": "2024-10-12",
+      "product_code": "PL",
+      "repayment_count": 215,
+      "loan_count": 198,
+      "due_amount": "86441.92",
+      "paid_amount": "28109.14",
+      "repayment_completion_rate": "0.3252",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-10-13",
+      "product_code": "AL",
+      "repayment_count": 199,
+      "loan_count": 184,
+      "due_amount": "77649.14",
+      "paid_amount": "23482.94",
+      "repayment_completion_rate": "0.3024",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-10-13",
+      "product_code": "CC",
+      "repayment_count": 221,
+      "loan_count": 195,
+      "due_amount": "100095.12",
+      "paid_amount": "28776.38",
+      "repayment_completion_rate": "0.2875",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-10-13",
+      "product_code": "HL",
+      "repayment_count": 224,
+      "loan_count": 204,
+      "due_amount": "93330.93",
+      "paid_amount": "32045.68",
+      "repayment_completion_rate": "0.3434",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-10-13",
+      "product_code": "PL",
+      "repayment_count": 195,
+      "loan_count": 182,
+      "due_amount": "79288.89",
+      "paid_amount": "27204.74",
+      "repayment_completion_rate": "0.3431",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-10-14",
+      "product_code": "AL",
+      "repayment_count": 195,
+      "loan_count": 172,
+      "due_amount": "71090.75",
+      "paid_amount": "25063.41",
+      "repayment_completion_rate": "0.3526",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-10-14",
+      "product_code": "CC",
+      "repayment_count": 207,
+      "loan_count": 188,
+      "due_amount": "78662.09",
+      "paid_amount": "27491.21",
+      "repayment_completion_rate": "0.3495",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-10-14",
+      "product_code": "HL",
+      "repayment_count": 210,
+      "loan_count": 196,
+      "due_amount": "87068.76",
+      "paid_amount": "27914.02",
+      "repayment_completion_rate": "0.3206",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-14",
+      "product_code": "PL",
+      "repayment_count": 214,
+      "loan_count": 195,
+      "due_amount": "88207.95",
+      "paid_amount": "27551.93",
+      "repayment_completion_rate": "0.3124",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-10-15",
+      "product_code": "AL",
+      "repayment_count": 230,
+      "loan_count": 210,
+      "due_amount": "93479.80",
+      "paid_amount": "31179.08",
+      "repayment_completion_rate": "0.3335",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-10-15",
+      "product_code": "CC",
+      "repayment_count": 207,
+      "loan_count": 193,
+      "due_amount": "88128.52",
+      "paid_amount": "27804.27",
+      "repayment_completion_rate": "0.3155",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-10-15",
+      "product_code": "HL",
+      "repayment_count": 213,
+      "loan_count": 193,
+      "due_amount": "88084.26",
+      "paid_amount": "26142.95",
+      "repayment_completion_rate": "0.2968",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-10-15",
+      "product_code": "PL",
+      "repayment_count": 197,
+      "loan_count": 177,
+      "due_amount": "85648.69",
+      "paid_amount": "27601.56",
+      "repayment_completion_rate": "0.3223",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-10-16",
+      "product_code": "AL",
+      "repayment_count": 220,
+      "loan_count": 200,
+      "due_amount": "87381.50",
+      "paid_amount": "28659.76",
+      "repayment_completion_rate": "0.3280",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-16",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 192,
+      "due_amount": "87485.94",
+      "paid_amount": "24818.95",
+      "repayment_completion_rate": "0.2837",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-10-16",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 174,
+      "due_amount": "77615.64",
+      "paid_amount": "25008.24",
+      "repayment_completion_rate": "0.3222",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-10-16",
+      "product_code": "PL",
+      "repayment_count": 209,
+      "loan_count": 192,
+      "due_amount": "85907.40",
+      "paid_amount": "30916.86",
+      "repayment_completion_rate": "0.3599",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-10-17",
+      "product_code": "AL",
+      "repayment_count": 206,
+      "loan_count": 193,
+      "due_amount": "88816.97",
+      "paid_amount": "32149.23",
+      "repayment_completion_rate": "0.3620",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-10-17",
+      "product_code": "CC",
+      "repayment_count": 228,
+      "loan_count": 199,
+      "due_amount": "98462.00",
+      "paid_amount": "32579.37",
+      "repayment_completion_rate": "0.3309",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-17",
+      "product_code": "HL",
+      "repayment_count": 191,
+      "loan_count": 172,
+      "due_amount": "81403.23",
+      "paid_amount": "25612.52",
+      "repayment_completion_rate": "0.3146",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-10-17",
+      "product_code": "PL",
+      "repayment_count": 217,
+      "loan_count": 194,
+      "due_amount": "90709.61",
+      "paid_amount": "23008.67",
+      "repayment_completion_rate": "0.2537",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-10-18",
+      "product_code": "AL",
+      "repayment_count": 186,
+      "loan_count": 169,
+      "due_amount": "77167.56",
+      "paid_amount": "28022.95",
+      "repayment_completion_rate": "0.3631",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-10-18",
+      "product_code": "CC",
+      "repayment_count": 206,
+      "loan_count": 187,
+      "due_amount": "88792.36",
+      "paid_amount": "29909.36",
+      "repayment_completion_rate": "0.3368",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-18",
+      "product_code": "HL",
+      "repayment_count": 197,
+      "loan_count": 176,
+      "due_amount": "77439.11",
+      "paid_amount": "26535.97",
+      "repayment_completion_rate": "0.3427",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-10-18",
+      "product_code": "PL",
+      "repayment_count": 217,
+      "loan_count": 195,
+      "due_amount": "86775.73",
+      "paid_amount": "32712.16",
+      "repayment_completion_rate": "0.3770",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-19",
+      "product_code": "AL",
+      "repayment_count": 183,
+      "loan_count": 171,
+      "due_amount": "69972.78",
+      "paid_amount": "24479.65",
+      "repayment_completion_rate": "0.3498",
+      "delinquent_event_count": 144
+    },
+    {
+      "report_date": "2024-10-19",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 194,
+      "due_amount": "88615.63",
+      "paid_amount": "26539.53",
+      "repayment_completion_rate": "0.2995",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-19",
+      "product_code": "HL",
+      "repayment_count": 193,
+      "loan_count": 185,
+      "due_amount": "78442.46",
+      "paid_amount": "25502.67",
+      "repayment_completion_rate": "0.3251",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-10-19",
+      "product_code": "PL",
+      "repayment_count": 211,
+      "loan_count": 196,
+      "due_amount": "89947.07",
+      "paid_amount": "30634.18",
+      "repayment_completion_rate": "0.3406",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-10-20",
+      "product_code": "AL",
+      "repayment_count": 228,
+      "loan_count": 198,
+      "due_amount": "95902.46",
+      "paid_amount": "34940.88",
+      "repayment_completion_rate": "0.3643",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-10-20",
+      "product_code": "CC",
+      "repayment_count": 215,
+      "loan_count": 192,
+      "due_amount": "93994.64",
+      "paid_amount": "25989.40",
+      "repayment_completion_rate": "0.2765",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-10-20",
+      "product_code": "HL",
+      "repayment_count": 183,
+      "loan_count": 164,
+      "due_amount": "73643.85",
+      "paid_amount": "23231.00",
+      "repayment_completion_rate": "0.3155",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-10-20",
+      "product_code": "PL",
+      "repayment_count": 236,
+      "loan_count": 214,
+      "due_amount": "96235.77",
+      "paid_amount": "33909.86",
+      "repayment_completion_rate": "0.3524",
+      "delinquent_event_count": 189
+    },
+    {
+      "report_date": "2024-10-21",
+      "product_code": "AL",
+      "repayment_count": 215,
+      "loan_count": 193,
+      "due_amount": "85244.32",
+      "paid_amount": "33266.88",
+      "repayment_completion_rate": "0.3903",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-10-21",
+      "product_code": "CC",
+      "repayment_count": 200,
+      "loan_count": 183,
+      "due_amount": "80357.36",
+      "paid_amount": "30335.82",
+      "repayment_completion_rate": "0.3775",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-10-21",
+      "product_code": "HL",
+      "repayment_count": 212,
+      "loan_count": 194,
+      "due_amount": "92983.75",
+      "paid_amount": "36769.12",
+      "repayment_completion_rate": "0.3954",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-10-21",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 188,
+      "due_amount": "89546.67",
+      "paid_amount": "30330.09",
+      "repayment_completion_rate": "0.3387",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-22",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 192,
+      "due_amount": "83004.11",
+      "paid_amount": "25984.49",
+      "repayment_completion_rate": "0.3131",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-22",
+      "product_code": "CC",
+      "repayment_count": 184,
+      "loan_count": 167,
+      "due_amount": "77276.21",
+      "paid_amount": "21353.73",
+      "repayment_completion_rate": "0.2763",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-10-22",
+      "product_code": "HL",
+      "repayment_count": 189,
+      "loan_count": 174,
+      "due_amount": "79549.20",
+      "paid_amount": "25123.07",
+      "repayment_completion_rate": "0.3158",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-10-22",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 206,
+      "due_amount": "89424.38",
+      "paid_amount": "34072.99",
+      "repayment_completion_rate": "0.3810",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-10-23",
+      "product_code": "AL",
+      "repayment_count": 215,
+      "loan_count": 194,
+      "due_amount": "88207.26",
+      "paid_amount": "28739.79",
+      "repayment_completion_rate": "0.3258",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-23",
+      "product_code": "CC",
+      "repayment_count": 218,
+      "loan_count": 191,
+      "due_amount": "90649.57",
+      "paid_amount": "32802.90",
+      "repayment_completion_rate": "0.3619",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-10-23",
+      "product_code": "HL",
+      "repayment_count": 183,
+      "loan_count": 165,
+      "due_amount": "68378.46",
+      "paid_amount": "22851.44",
+      "repayment_completion_rate": "0.3342",
+      "delinquent_event_count": 144
+    },
+    {
+      "report_date": "2024-10-23",
+      "product_code": "PL",
+      "repayment_count": 220,
+      "loan_count": 199,
+      "due_amount": "94473.16",
+      "paid_amount": "31274.34",
+      "repayment_completion_rate": "0.3310",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-10-24",
+      "product_code": "AL",
+      "repayment_count": 176,
+      "loan_count": 161,
+      "due_amount": "72191.35",
+      "paid_amount": "21903.30",
+      "repayment_completion_rate": "0.3034",
+      "delinquent_event_count": 147
+    },
+    {
+      "report_date": "2024-10-24",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 192,
+      "due_amount": "87158.23",
+      "paid_amount": "27269.12",
+      "repayment_completion_rate": "0.3129",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-10-24",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 186,
+      "due_amount": "83975.14",
+      "paid_amount": "28056.26",
+      "repayment_completion_rate": "0.3341",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-10-24",
+      "product_code": "PL",
+      "repayment_count": 234,
+      "loan_count": 208,
+      "due_amount": "94327.74",
+      "paid_amount": "29639.19",
+      "repayment_completion_rate": "0.3142",
+      "delinquent_event_count": 196
+    },
+    {
+      "report_date": "2024-10-25",
+      "product_code": "AL",
+      "repayment_count": 228,
+      "loan_count": 200,
+      "due_amount": "89859.61",
+      "paid_amount": "33788.09",
+      "repayment_completion_rate": "0.3760",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-10-25",
+      "product_code": "CC",
+      "repayment_count": 219,
+      "loan_count": 193,
+      "due_amount": "92741.60",
+      "paid_amount": "31624.02",
+      "repayment_completion_rate": "0.3410",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-25",
+      "product_code": "HL",
+      "repayment_count": 215,
+      "loan_count": 193,
+      "due_amount": "89845.56",
+      "paid_amount": "31572.92",
+      "repayment_completion_rate": "0.3514",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-10-25",
+      "product_code": "PL",
+      "repayment_count": 208,
+      "loan_count": 187,
+      "due_amount": "83441.17",
+      "paid_amount": "24242.46",
+      "repayment_completion_rate": "0.2905",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-10-26",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 188,
+      "due_amount": "86587.64",
+      "paid_amount": "24332.95",
+      "repayment_completion_rate": "0.2810",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-10-26",
+      "product_code": "CC",
+      "repayment_count": 226,
+      "loan_count": 204,
+      "due_amount": "97093.62",
+      "paid_amount": "38610.46",
+      "repayment_completion_rate": "0.3977",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-10-26",
+      "product_code": "HL",
+      "repayment_count": 209,
+      "loan_count": 195,
+      "due_amount": "93834.75",
+      "paid_amount": "31549.33",
+      "repayment_completion_rate": "0.3362",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-10-26",
+      "product_code": "PL",
+      "repayment_count": 221,
+      "loan_count": 198,
+      "due_amount": "91728.18",
+      "paid_amount": "29507.15",
+      "repayment_completion_rate": "0.3217",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-10-27",
+      "product_code": "AL",
+      "repayment_count": 191,
+      "loan_count": 167,
+      "due_amount": "78856.53",
+      "paid_amount": "25883.54",
+      "repayment_completion_rate": "0.3282",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-10-27",
+      "product_code": "CC",
+      "repayment_count": 209,
+      "loan_count": 184,
+      "due_amount": "85035.25",
+      "paid_amount": "28760.56",
+      "repayment_completion_rate": "0.3382",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-27",
+      "product_code": "HL",
+      "repayment_count": 211,
+      "loan_count": 189,
+      "due_amount": "82400.15",
+      "paid_amount": "30709.30",
+      "repayment_completion_rate": "0.3727",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-27",
+      "product_code": "PL",
+      "repayment_count": 225,
+      "loan_count": 203,
+      "due_amount": "89772.33",
+      "paid_amount": "31621.02",
+      "repayment_completion_rate": "0.3522",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-10-28",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 194,
+      "due_amount": "86580.08",
+      "paid_amount": "29258.74",
+      "repayment_completion_rate": "0.3379",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-28",
+      "product_code": "CC",
+      "repayment_count": 212,
+      "loan_count": 185,
+      "due_amount": "84979.94",
+      "paid_amount": "27930.38",
+      "repayment_completion_rate": "0.3287",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-10-28",
+      "product_code": "HL",
+      "repayment_count": 215,
+      "loan_count": 196,
+      "due_amount": "89987.68",
+      "paid_amount": "35797.05",
+      "repayment_completion_rate": "0.3978",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-28",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 202,
+      "due_amount": "92272.56",
+      "paid_amount": "35572.42",
+      "repayment_completion_rate": "0.3855",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-29",
+      "product_code": "AL",
+      "repayment_count": 192,
+      "loan_count": 181,
+      "due_amount": "85239.32",
+      "paid_amount": "24861.21",
+      "repayment_completion_rate": "0.2917",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-10-29",
+      "product_code": "CC",
+      "repayment_count": 231,
+      "loan_count": 214,
+      "due_amount": "89563.52",
+      "paid_amount": "26006.69",
+      "repayment_completion_rate": "0.2904",
+      "delinquent_event_count": 190
+    },
+    {
+      "report_date": "2024-10-29",
+      "product_code": "HL",
+      "repayment_count": 204,
+      "loan_count": 184,
+      "due_amount": "85030.41",
+      "paid_amount": "26250.24",
+      "repayment_completion_rate": "0.3087",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-10-29",
+      "product_code": "PL",
+      "repayment_count": 218,
+      "loan_count": 195,
+      "due_amount": "98062.06",
+      "paid_amount": "32054.77",
+      "repayment_completion_rate": "0.3269",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-10-30",
+      "product_code": "AL",
+      "repayment_count": 197,
+      "loan_count": 176,
+      "due_amount": "76891.52",
+      "paid_amount": "21186.51",
+      "repayment_completion_rate": "0.2755",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-10-30",
+      "product_code": "CC",
+      "repayment_count": 223,
+      "loan_count": 206,
+      "due_amount": "91851.31",
+      "paid_amount": "25925.21",
+      "repayment_completion_rate": "0.2823",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-10-30",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 184,
+      "due_amount": "86538.47",
+      "paid_amount": "27710.52",
+      "repayment_completion_rate": "0.3202",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-10-30",
+      "product_code": "PL",
+      "repayment_count": 205,
+      "loan_count": 183,
+      "due_amount": "79612.11",
+      "paid_amount": "22670.81",
+      "repayment_completion_rate": "0.2848",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-10-31",
+      "product_code": "AL",
+      "repayment_count": 221,
+      "loan_count": 195,
+      "due_amount": "91268.12",
+      "paid_amount": "37004.71",
+      "repayment_completion_rate": "0.4055",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-10-31",
+      "product_code": "CC",
+      "repayment_count": 222,
+      "loan_count": 194,
+      "due_amount": "90380.94",
+      "paid_amount": "25110.66",
+      "repayment_completion_rate": "0.2778",
+      "delinquent_event_count": 184
+    },
+    {
+      "report_date": "2024-10-31",
+      "product_code": "HL",
+      "repayment_count": 204,
+      "loan_count": 182,
+      "due_amount": "80588.57",
+      "paid_amount": "28480.85",
+      "repayment_completion_rate": "0.3534",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-10-31",
+      "product_code": "PL",
+      "repayment_count": 212,
+      "loan_count": 195,
+      "due_amount": "88257.29",
+      "paid_amount": "29387.57",
+      "repayment_completion_rate": "0.3330",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-11-01",
+      "product_code": "AL",
+      "repayment_count": 228,
+      "loan_count": 206,
+      "due_amount": "98428.98",
+      "paid_amount": "29515.54",
+      "repayment_completion_rate": "0.2999",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-11-01",
+      "product_code": "CC",
+      "repayment_count": 191,
+      "loan_count": 181,
+      "due_amount": "83627.63",
+      "paid_amount": "29462.58",
+      "repayment_completion_rate": "0.3523",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-01",
+      "product_code": "HL",
+      "repayment_count": 191,
+      "loan_count": 180,
+      "due_amount": "79114.92",
+      "paid_amount": "27755.66",
+      "repayment_completion_rate": "0.3508",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-01",
+      "product_code": "PL",
+      "repayment_count": 236,
+      "loan_count": 217,
+      "due_amount": "92171.75",
+      "paid_amount": "29325.74",
+      "repayment_completion_rate": "0.3182",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-11-02",
+      "product_code": "AL",
+      "repayment_count": 188,
+      "loan_count": 174,
+      "due_amount": "83808.49",
+      "paid_amount": "22093.11",
+      "repayment_completion_rate": "0.2636",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-11-02",
+      "product_code": "CC",
+      "repayment_count": 210,
+      "loan_count": 177,
+      "due_amount": "88589.54",
+      "paid_amount": "29186.08",
+      "repayment_completion_rate": "0.3295",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-11-02",
+      "product_code": "HL",
+      "repayment_count": 188,
+      "loan_count": 164,
+      "due_amount": "81468.52",
+      "paid_amount": "28014.71",
+      "repayment_completion_rate": "0.3439",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-02",
+      "product_code": "PL",
+      "repayment_count": 179,
+      "loan_count": 168,
+      "due_amount": "70614.81",
+      "paid_amount": "25265.45",
+      "repayment_completion_rate": "0.3578",
+      "delinquent_event_count": 138
+    },
+    {
+      "report_date": "2024-11-03",
+      "product_code": "AL",
+      "repayment_count": 193,
+      "loan_count": 178,
+      "due_amount": "74658.52",
+      "paid_amount": "20969.17",
+      "repayment_completion_rate": "0.2809",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-11-03",
+      "product_code": "CC",
+      "repayment_count": 197,
+      "loan_count": 183,
+      "due_amount": "87159.00",
+      "paid_amount": "28034.27",
+      "repayment_completion_rate": "0.3216",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-11-03",
+      "product_code": "HL",
+      "repayment_count": 212,
+      "loan_count": 190,
+      "due_amount": "86884.40",
+      "paid_amount": "25821.22",
+      "repayment_completion_rate": "0.2972",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-11-03",
+      "product_code": "PL",
+      "repayment_count": 204,
+      "loan_count": 180,
+      "due_amount": "83315.97",
+      "paid_amount": "24999.34",
+      "repayment_completion_rate": "0.3001",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-11-04",
+      "product_code": "AL",
+      "repayment_count": 205,
+      "loan_count": 187,
+      "due_amount": "88956.96",
+      "paid_amount": "25506.02",
+      "repayment_completion_rate": "0.2867",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-11-04",
+      "product_code": "CC",
+      "repayment_count": 191,
+      "loan_count": 175,
+      "due_amount": "75029.15",
+      "paid_amount": "27695.45",
+      "repayment_completion_rate": "0.3691",
+      "delinquent_event_count": 142
+    },
+    {
+      "report_date": "2024-11-04",
+      "product_code": "HL",
+      "repayment_count": 215,
+      "loan_count": 197,
+      "due_amount": "88110.05",
+      "paid_amount": "25822.58",
+      "repayment_completion_rate": "0.2931",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-11-04",
+      "product_code": "PL",
+      "repayment_count": 205,
+      "loan_count": 187,
+      "due_amount": "84310.88",
+      "paid_amount": "29850.02",
+      "repayment_completion_rate": "0.3540",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-11-05",
+      "product_code": "AL",
+      "repayment_count": 197,
+      "loan_count": 173,
+      "due_amount": "85532.02",
+      "paid_amount": "30112.73",
+      "repayment_completion_rate": "0.3521",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-11-05",
+      "product_code": "CC",
+      "repayment_count": 202,
+      "loan_count": 183,
+      "due_amount": "85652.71",
+      "paid_amount": "26707.88",
+      "repayment_completion_rate": "0.3118",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-11-05",
+      "product_code": "HL",
+      "repayment_count": 235,
+      "loan_count": 212,
+      "due_amount": "95063.17",
+      "paid_amount": "26846.21",
+      "repayment_completion_rate": "0.2824",
+      "delinquent_event_count": 198
+    },
+    {
+      "report_date": "2024-11-05",
+      "product_code": "PL",
+      "repayment_count": 213,
+      "loan_count": 196,
+      "due_amount": "91030.85",
+      "paid_amount": "30755.37",
+      "repayment_completion_rate": "0.3379",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-11-06",
+      "product_code": "AL",
+      "repayment_count": 217,
+      "loan_count": 197,
+      "due_amount": "88918.95",
+      "paid_amount": "29012.62",
+      "repayment_completion_rate": "0.3263",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-06",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 191,
+      "due_amount": "88556.98",
+      "paid_amount": "29575.13",
+      "repayment_completion_rate": "0.3340",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-06",
+      "product_code": "HL",
+      "repayment_count": 204,
+      "loan_count": 188,
+      "due_amount": "86474.74",
+      "paid_amount": "25421.30",
+      "repayment_completion_rate": "0.2940",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-11-06",
+      "product_code": "PL",
+      "repayment_count": 233,
+      "loan_count": 205,
+      "due_amount": "100106.11",
+      "paid_amount": "32093.83",
+      "repayment_completion_rate": "0.3206",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-11-07",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 190,
+      "due_amount": "85144.95",
+      "paid_amount": "21833.82",
+      "repayment_completion_rate": "0.2564",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-11-07",
+      "product_code": "CC",
+      "repayment_count": 222,
+      "loan_count": 200,
+      "due_amount": "91606.80",
+      "paid_amount": "27399.73",
+      "repayment_completion_rate": "0.2991",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-11-07",
+      "product_code": "HL",
+      "repayment_count": 178,
+      "loan_count": 162,
+      "due_amount": "71360.48",
+      "paid_amount": "23554.17",
+      "repayment_completion_rate": "0.3301",
+      "delinquent_event_count": 142
+    },
+    {
+      "report_date": "2024-11-07",
+      "product_code": "PL",
+      "repayment_count": 223,
+      "loan_count": 207,
+      "due_amount": "91116.75",
+      "paid_amount": "29637.23",
+      "repayment_completion_rate": "0.3253",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-11-08",
+      "product_code": "AL",
+      "repayment_count": 173,
+      "loan_count": 157,
+      "due_amount": "67755.27",
+      "paid_amount": "22656.73",
+      "repayment_completion_rate": "0.3344",
+      "delinquent_event_count": 138
+    },
+    {
+      "report_date": "2024-11-08",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 193,
+      "due_amount": "89138.14",
+      "paid_amount": "31410.74",
+      "repayment_completion_rate": "0.3524",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-11-08",
+      "product_code": "HL",
+      "repayment_count": 223,
+      "loan_count": 198,
+      "due_amount": "85559.98",
+      "paid_amount": "29412.66",
+      "repayment_completion_rate": "0.3438",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-08",
+      "product_code": "PL",
+      "repayment_count": 226,
+      "loan_count": 202,
+      "due_amount": "95996.10",
+      "paid_amount": "33986.90",
+      "repayment_completion_rate": "0.3540",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-11-09",
+      "product_code": "AL",
+      "repayment_count": 218,
+      "loan_count": 197,
+      "due_amount": "90453.44",
+      "paid_amount": "31196.55",
+      "repayment_completion_rate": "0.3449",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-11-09",
+      "product_code": "CC",
+      "repayment_count": 227,
+      "loan_count": 211,
+      "due_amount": "92759.86",
+      "paid_amount": "29322.45",
+      "repayment_completion_rate": "0.3161",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-11-09",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 179,
+      "due_amount": "83800.99",
+      "paid_amount": "25445.96",
+      "repayment_completion_rate": "0.3036",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-11-09",
+      "product_code": "PL",
+      "repayment_count": 230,
+      "loan_count": 206,
+      "due_amount": "95362.63",
+      "paid_amount": "37427.06",
+      "repayment_completion_rate": "0.3925",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-11-10",
+      "product_code": "AL",
+      "repayment_count": 198,
+      "loan_count": 179,
+      "due_amount": "84014.95",
+      "paid_amount": "28851.58",
+      "repayment_completion_rate": "0.3434",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-11-10",
+      "product_code": "CC",
+      "repayment_count": 227,
+      "loan_count": 205,
+      "due_amount": "95391.26",
+      "paid_amount": "29922.73",
+      "repayment_completion_rate": "0.3137",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-11-10",
+      "product_code": "HL",
+      "repayment_count": 184,
+      "loan_count": 166,
+      "due_amount": "73199.76",
+      "paid_amount": "24809.15",
+      "repayment_completion_rate": "0.3389",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-11-10",
+      "product_code": "PL",
+      "repayment_count": 208,
+      "loan_count": 189,
+      "due_amount": "83957.57",
+      "paid_amount": "22716.14",
+      "repayment_completion_rate": "0.2706",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-11-11",
+      "product_code": "AL",
+      "repayment_count": 194,
+      "loan_count": 176,
+      "due_amount": "84663.92",
+      "paid_amount": "27855.41",
+      "repayment_completion_rate": "0.3290",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-11-11",
+      "product_code": "CC",
+      "repayment_count": 232,
+      "loan_count": 207,
+      "due_amount": "97088.88",
+      "paid_amount": "30200.62",
+      "repayment_completion_rate": "0.3111",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-11-11",
+      "product_code": "HL",
+      "repayment_count": 208,
+      "loan_count": 183,
+      "due_amount": "83874.51",
+      "paid_amount": "29014.44",
+      "repayment_completion_rate": "0.3459",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-11-11",
+      "product_code": "PL",
+      "repayment_count": 217,
+      "loan_count": 202,
+      "due_amount": "84986.50",
+      "paid_amount": "23135.42",
+      "repayment_completion_rate": "0.2722",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-11-12",
+      "product_code": "AL",
+      "repayment_count": 190,
+      "loan_count": 174,
+      "due_amount": "80692.02",
+      "paid_amount": "27219.65",
+      "repayment_completion_rate": "0.3373",
+      "delinquent_event_count": 141
+    },
+    {
+      "report_date": "2024-11-12",
+      "product_code": "CC",
+      "repayment_count": 214,
+      "loan_count": 194,
+      "due_amount": "86864.99",
+      "paid_amount": "27011.39",
+      "repayment_completion_rate": "0.3110",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-11-12",
+      "product_code": "HL",
+      "repayment_count": 202,
+      "loan_count": 179,
+      "due_amount": "80121.09",
+      "paid_amount": "23209.43",
+      "repayment_completion_rate": "0.2897",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-11-12",
+      "product_code": "PL",
+      "repayment_count": 243,
+      "loan_count": 216,
+      "due_amount": "102801.71",
+      "paid_amount": "30385.18",
+      "repayment_completion_rate": "0.2956",
+      "delinquent_event_count": 199
+    },
+    {
+      "report_date": "2024-11-13",
+      "product_code": "AL",
+      "repayment_count": 203,
+      "loan_count": 185,
+      "due_amount": "88259.85",
+      "paid_amount": "27333.67",
+      "repayment_completion_rate": "0.3097",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-11-13",
+      "product_code": "CC",
+      "repayment_count": 193,
+      "loan_count": 177,
+      "due_amount": "78461.45",
+      "paid_amount": "26837.83",
+      "repayment_completion_rate": "0.3421",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-11-13",
+      "product_code": "HL",
+      "repayment_count": 189,
+      "loan_count": 168,
+      "due_amount": "78501.68",
+      "paid_amount": "26799.10",
+      "repayment_completion_rate": "0.3414",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-11-13",
+      "product_code": "PL",
+      "repayment_count": 223,
+      "loan_count": 200,
+      "due_amount": "91865.01",
+      "paid_amount": "32040.66",
+      "repayment_completion_rate": "0.3488",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-14",
+      "product_code": "AL",
+      "repayment_count": 181,
+      "loan_count": 164,
+      "due_amount": "71322.56",
+      "paid_amount": "21933.90",
+      "repayment_completion_rate": "0.3075",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-14",
+      "product_code": "CC",
+      "repayment_count": 220,
+      "loan_count": 198,
+      "due_amount": "88837.07",
+      "paid_amount": "25570.70",
+      "repayment_completion_rate": "0.2878",
+      "delinquent_event_count": 176
+    },
+    {
+      "report_date": "2024-11-14",
+      "product_code": "HL",
+      "repayment_count": 236,
+      "loan_count": 209,
+      "due_amount": "96901.09",
+      "paid_amount": "30744.41",
+      "repayment_completion_rate": "0.3173",
+      "delinquent_event_count": 193
+    },
+    {
+      "report_date": "2024-11-14",
+      "product_code": "PL",
+      "repayment_count": 199,
+      "loan_count": 186,
+      "due_amount": "81563.51",
+      "paid_amount": "22454.20",
+      "repayment_completion_rate": "0.2753",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-11-15",
+      "product_code": "AL",
+      "repayment_count": 187,
+      "loan_count": 171,
+      "due_amount": "76396.95",
+      "paid_amount": "19390.75",
+      "repayment_completion_rate": "0.2538",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-11-15",
+      "product_code": "CC",
+      "repayment_count": 207,
+      "loan_count": 184,
+      "due_amount": "87779.84",
+      "paid_amount": "29784.44",
+      "repayment_completion_rate": "0.3393",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-11-15",
+      "product_code": "HL",
+      "repayment_count": 194,
+      "loan_count": 174,
+      "due_amount": "78607.96",
+      "paid_amount": "24125.89",
+      "repayment_completion_rate": "0.3069",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-11-15",
+      "product_code": "PL",
+      "repayment_count": 190,
+      "loan_count": 172,
+      "due_amount": "83681.14",
+      "paid_amount": "30499.77",
+      "repayment_completion_rate": "0.3645",
+      "delinquent_event_count": 144
+    },
+    {
+      "report_date": "2024-11-16",
+      "product_code": "AL",
+      "repayment_count": 185,
+      "loan_count": 166,
+      "due_amount": "76926.31",
+      "paid_amount": "26958.78",
+      "repayment_completion_rate": "0.3504",
+      "delinquent_event_count": 140
+    },
+    {
+      "report_date": "2024-11-16",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 199,
+      "due_amount": "91382.66",
+      "paid_amount": "24609.57",
+      "repayment_completion_rate": "0.2693",
+      "delinquent_event_count": 184
+    },
+    {
+      "report_date": "2024-11-16",
+      "product_code": "HL",
+      "repayment_count": 185,
+      "loan_count": 171,
+      "due_amount": "78748.31",
+      "paid_amount": "20764.59",
+      "repayment_completion_rate": "0.2637",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-11-16",
+      "product_code": "PL",
+      "repayment_count": 189,
+      "loan_count": 179,
+      "due_amount": "75314.10",
+      "paid_amount": "25289.28",
+      "repayment_completion_rate": "0.3358",
+      "delinquent_event_count": 146
+    },
+    {
+      "report_date": "2024-11-17",
+      "product_code": "AL",
+      "repayment_count": 197,
+      "loan_count": 182,
+      "due_amount": "86961.35",
+      "paid_amount": "28353.99",
+      "repayment_completion_rate": "0.3261",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-11-17",
+      "product_code": "CC",
+      "repayment_count": 213,
+      "loan_count": 189,
+      "due_amount": "86245.21",
+      "paid_amount": "27622.43",
+      "repayment_completion_rate": "0.3203",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-11-17",
+      "product_code": "HL",
+      "repayment_count": 180,
+      "loan_count": 160,
+      "due_amount": "78510.83",
+      "paid_amount": "27728.53",
+      "repayment_completion_rate": "0.3532",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-17",
+      "product_code": "PL",
+      "repayment_count": 211,
+      "loan_count": 192,
+      "due_amount": "86394.64",
+      "paid_amount": "28406.62",
+      "repayment_completion_rate": "0.3288",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-18",
+      "product_code": "AL",
+      "repayment_count": 175,
+      "loan_count": 164,
+      "due_amount": "74180.99",
+      "paid_amount": "20429.12",
+      "repayment_completion_rate": "0.2754",
+      "delinquent_event_count": 144
+    },
+    {
+      "report_date": "2024-11-18",
+      "product_code": "CC",
+      "repayment_count": 220,
+      "loan_count": 195,
+      "due_amount": "85218.93",
+      "paid_amount": "26791.01",
+      "repayment_completion_rate": "0.3144",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-11-18",
+      "product_code": "HL",
+      "repayment_count": 199,
+      "loan_count": 181,
+      "due_amount": "82534.04",
+      "paid_amount": "24925.40",
+      "repayment_completion_rate": "0.3020",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-11-18",
+      "product_code": "PL",
+      "repayment_count": 201,
+      "loan_count": 186,
+      "due_amount": "78596.04",
+      "paid_amount": "26424.41",
+      "repayment_completion_rate": "0.3362",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-11-19",
+      "product_code": "AL",
+      "repayment_count": 229,
+      "loan_count": 204,
+      "due_amount": "96743.36",
+      "paid_amount": "29388.44",
+      "repayment_completion_rate": "0.3038",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-11-19",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 196,
+      "due_amount": "91530.79",
+      "paid_amount": "28099.01",
+      "repayment_completion_rate": "0.3070",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-19",
+      "product_code": "HL",
+      "repayment_count": 206,
+      "loan_count": 184,
+      "due_amount": "77774.69",
+      "paid_amount": "24143.36",
+      "repayment_completion_rate": "0.3104",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-11-19",
+      "product_code": "PL",
+      "repayment_count": 224,
+      "loan_count": 202,
+      "due_amount": "93680.28",
+      "paid_amount": "27653.90",
+      "repayment_completion_rate": "0.2952",
+      "delinquent_event_count": 190
+    },
+    {
+      "report_date": "2024-11-20",
+      "product_code": "AL",
+      "repayment_count": 195,
+      "loan_count": 178,
+      "due_amount": "78535.31",
+      "paid_amount": "24092.34",
+      "repayment_completion_rate": "0.3068",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-11-20",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 192,
+      "due_amount": "83111.47",
+      "paid_amount": "24459.97",
+      "repayment_completion_rate": "0.2943",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-20",
+      "product_code": "HL",
+      "repayment_count": 175,
+      "loan_count": 156,
+      "due_amount": "70231.41",
+      "paid_amount": "21991.19",
+      "repayment_completion_rate": "0.3131",
+      "delinquent_event_count": 140
+    },
+    {
+      "report_date": "2024-11-20",
+      "product_code": "PL",
+      "repayment_count": 229,
+      "loan_count": 206,
+      "due_amount": "92645.68",
+      "paid_amount": "31087.92",
+      "repayment_completion_rate": "0.3356",
+      "delinquent_event_count": 180
+    },
+    {
+      "report_date": "2024-11-21",
+      "product_code": "AL",
+      "repayment_count": 221,
+      "loan_count": 206,
+      "due_amount": "89194.22",
+      "paid_amount": "30850.83",
+      "repayment_completion_rate": "0.3459",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-21",
+      "product_code": "CC",
+      "repayment_count": 215,
+      "loan_count": 194,
+      "due_amount": "87512.85",
+      "paid_amount": "29599.58",
+      "repayment_completion_rate": "0.3382",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-11-21",
+      "product_code": "HL",
+      "repayment_count": 219,
+      "loan_count": 200,
+      "due_amount": "86967.67",
+      "paid_amount": "27453.44",
+      "repayment_completion_rate": "0.3157",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-11-21",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 203,
+      "due_amount": "90432.01",
+      "paid_amount": "32348.52",
+      "repayment_completion_rate": "0.3577",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-11-22",
+      "product_code": "AL",
+      "repayment_count": 195,
+      "loan_count": 183,
+      "due_amount": "80545.80",
+      "paid_amount": "25782.89",
+      "repayment_completion_rate": "0.3201",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-11-22",
+      "product_code": "CC",
+      "repayment_count": 218,
+      "loan_count": 196,
+      "due_amount": "96584.15",
+      "paid_amount": "30070.73",
+      "repayment_completion_rate": "0.3113",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-11-22",
+      "product_code": "HL",
+      "repayment_count": 188,
+      "loan_count": 173,
+      "due_amount": "73897.16",
+      "paid_amount": "25355.35",
+      "repayment_completion_rate": "0.3431",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-11-22",
+      "product_code": "PL",
+      "repayment_count": 239,
+      "loan_count": 219,
+      "due_amount": "94527.69",
+      "paid_amount": "28234.00",
+      "repayment_completion_rate": "0.2987",
+      "delinquent_event_count": 198
+    },
+    {
+      "report_date": "2024-11-23",
+      "product_code": "AL",
+      "repayment_count": 201,
+      "loan_count": 180,
+      "due_amount": "81871.02",
+      "paid_amount": "21823.89",
+      "repayment_completion_rate": "0.2666",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-11-23",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 201,
+      "due_amount": "85502.47",
+      "paid_amount": "28768.13",
+      "repayment_completion_rate": "0.3365",
+      "delinquent_event_count": 173
+    },
+    {
+      "report_date": "2024-11-23",
+      "product_code": "HL",
+      "repayment_count": 199,
+      "loan_count": 186,
+      "due_amount": "80729.29",
+      "paid_amount": "25585.06",
+      "repayment_completion_rate": "0.3169",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-11-23",
+      "product_code": "PL",
+      "repayment_count": 201,
+      "loan_count": 187,
+      "due_amount": "82037.27",
+      "paid_amount": "27921.87",
+      "repayment_completion_rate": "0.3404",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-11-24",
+      "product_code": "AL",
+      "repayment_count": 222,
+      "loan_count": 198,
+      "due_amount": "95090.53",
+      "paid_amount": "29092.11",
+      "repayment_completion_rate": "0.3059",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-24",
+      "product_code": "CC",
+      "repayment_count": 214,
+      "loan_count": 190,
+      "due_amount": "93327.91",
+      "paid_amount": "27198.83",
+      "repayment_completion_rate": "0.2914",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-24",
+      "product_code": "HL",
+      "repayment_count": 203,
+      "loan_count": 185,
+      "due_amount": "83852.58",
+      "paid_amount": "23915.37",
+      "repayment_completion_rate": "0.2852",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-11-24",
+      "product_code": "PL",
+      "repayment_count": 199,
+      "loan_count": 182,
+      "due_amount": "81262.31",
+      "paid_amount": "23064.09",
+      "repayment_completion_rate": "0.2838",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-11-25",
+      "product_code": "AL",
+      "repayment_count": 212,
+      "loan_count": 198,
+      "due_amount": "79063.99",
+      "paid_amount": "22314.30",
+      "repayment_completion_rate": "0.2822",
+      "delinquent_event_count": 182
+    },
+    {
+      "report_date": "2024-11-25",
+      "product_code": "CC",
+      "repayment_count": 241,
+      "loan_count": 221,
+      "due_amount": "99227.80",
+      "paid_amount": "29459.38",
+      "repayment_completion_rate": "0.2969",
+      "delinquent_event_count": 194
+    },
+    {
+      "report_date": "2024-11-25",
+      "product_code": "HL",
+      "repayment_count": 185,
+      "loan_count": 162,
+      "due_amount": "76172.71",
+      "paid_amount": "22492.62",
+      "repayment_completion_rate": "0.2953",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-11-25",
+      "product_code": "PL",
+      "repayment_count": 217,
+      "loan_count": 197,
+      "due_amount": "94506.78",
+      "paid_amount": "33929.82",
+      "repayment_completion_rate": "0.3590",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-11-26",
+      "product_code": "AL",
+      "repayment_count": 190,
+      "loan_count": 172,
+      "due_amount": "76095.08",
+      "paid_amount": "24466.42",
+      "repayment_completion_rate": "0.3215",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-11-26",
+      "product_code": "CC",
+      "repayment_count": 186,
+      "loan_count": 173,
+      "due_amount": "76429.14",
+      "paid_amount": "20346.51",
+      "repayment_completion_rate": "0.2662",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-11-26",
+      "product_code": "HL",
+      "repayment_count": 190,
+      "loan_count": 170,
+      "due_amount": "77332.73",
+      "paid_amount": "22420.46",
+      "repayment_completion_rate": "0.2899",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-11-26",
+      "product_code": "PL",
+      "repayment_count": 218,
+      "loan_count": 198,
+      "due_amount": "89155.51",
+      "paid_amount": "23440.47",
+      "repayment_completion_rate": "0.2629",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-11-27",
+      "product_code": "AL",
+      "repayment_count": 214,
+      "loan_count": 196,
+      "due_amount": "86253.29",
+      "paid_amount": "24793.12",
+      "repayment_completion_rate": "0.2874",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-11-27",
+      "product_code": "CC",
+      "repayment_count": 241,
+      "loan_count": 219,
+      "due_amount": "95872.74",
+      "paid_amount": "34387.99",
+      "repayment_completion_rate": "0.3587",
+      "delinquent_event_count": 185
+    },
+    {
+      "report_date": "2024-11-27",
+      "product_code": "HL",
+      "repayment_count": 189,
+      "loan_count": 165,
+      "due_amount": "80152.13",
+      "paid_amount": "23728.27",
+      "repayment_completion_rate": "0.2960",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-11-27",
+      "product_code": "PL",
+      "repayment_count": 253,
+      "loan_count": 224,
+      "due_amount": "102065.99",
+      "paid_amount": "37471.25",
+      "repayment_completion_rate": "0.3671",
+      "delinquent_event_count": 194
+    },
+    {
+      "report_date": "2024-11-28",
+      "product_code": "AL",
+      "repayment_count": 211,
+      "loan_count": 183,
+      "due_amount": "89680.88",
+      "paid_amount": "30491.56",
+      "repayment_completion_rate": "0.3400",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-11-28",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 187,
+      "due_amount": "89168.88",
+      "paid_amount": "25496.45",
+      "repayment_completion_rate": "0.2859",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-11-28",
+      "product_code": "HL",
+      "repayment_count": 223,
+      "loan_count": 187,
+      "due_amount": "86324.73",
+      "paid_amount": "25826.83",
+      "repayment_completion_rate": "0.2992",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-11-28",
+      "product_code": "PL",
+      "repayment_count": 191,
+      "loan_count": 174,
+      "due_amount": "86927.28",
+      "paid_amount": "32457.84",
+      "repayment_completion_rate": "0.3734",
+      "delinquent_event_count": 143
+    },
+    {
+      "report_date": "2024-11-29",
+      "product_code": "AL",
+      "repayment_count": 199,
+      "loan_count": 180,
+      "due_amount": "81756.52",
+      "paid_amount": "26397.58",
+      "repayment_completion_rate": "0.3229",
+      "delinquent_event_count": 153
+    },
+    {
+      "report_date": "2024-11-29",
+      "product_code": "CC",
+      "repayment_count": 213,
+      "loan_count": 190,
+      "due_amount": "92945.11",
+      "paid_amount": "33562.65",
+      "repayment_completion_rate": "0.3611",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-11-29",
+      "product_code": "HL",
+      "repayment_count": 190,
+      "loan_count": 179,
+      "due_amount": "74394.68",
+      "paid_amount": "21490.11",
+      "repayment_completion_rate": "0.2889",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-11-29",
+      "product_code": "PL",
+      "repayment_count": 229,
+      "loan_count": 211,
+      "due_amount": "88900.59",
+      "paid_amount": "28683.24",
+      "repayment_completion_rate": "0.3226",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-11-30",
+      "product_code": "AL",
+      "repayment_count": 186,
+      "loan_count": 167,
+      "due_amount": "75857.90",
+      "paid_amount": "22286.68",
+      "repayment_completion_rate": "0.2938",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-11-30",
+      "product_code": "CC",
+      "repayment_count": 202,
+      "loan_count": 188,
+      "due_amount": "81853.14",
+      "paid_amount": "26005.26",
+      "repayment_completion_rate": "0.3177",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-11-30",
+      "product_code": "HL",
+      "repayment_count": 216,
+      "loan_count": 191,
+      "due_amount": "83777.57",
+      "paid_amount": "22651.51",
+      "repayment_completion_rate": "0.2704",
+      "delinquent_event_count": 187
+    },
+    {
+      "report_date": "2024-11-30",
+      "product_code": "PL",
+      "repayment_count": 216,
+      "loan_count": 196,
+      "due_amount": "82252.77",
+      "paid_amount": "25318.82",
+      "repayment_completion_rate": "0.3078",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-12-01",
+      "product_code": "AL",
+      "repayment_count": 226,
+      "loan_count": 208,
+      "due_amount": "94184.77",
+      "paid_amount": "28357.99",
+      "repayment_completion_rate": "0.3011",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-12-01",
+      "product_code": "CC",
+      "repayment_count": 242,
+      "loan_count": 221,
+      "due_amount": "101835.13",
+      "paid_amount": "35235.95",
+      "repayment_completion_rate": "0.3460",
+      "delinquent_event_count": 185
+    },
+    {
+      "report_date": "2024-12-01",
+      "product_code": "HL",
+      "repayment_count": 209,
+      "loan_count": 185,
+      "due_amount": "86137.21",
+      "paid_amount": "26981.27",
+      "repayment_completion_rate": "0.3132",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-12-01",
+      "product_code": "PL",
+      "repayment_count": 216,
+      "loan_count": 199,
+      "due_amount": "91238.71",
+      "paid_amount": "33671.15",
+      "repayment_completion_rate": "0.3690",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-12-02",
+      "product_code": "AL",
+      "repayment_count": 169,
+      "loan_count": 155,
+      "due_amount": "73362.88",
+      "paid_amount": "20625.16",
+      "repayment_completion_rate": "0.2811",
+      "delinquent_event_count": 141
+    },
+    {
+      "report_date": "2024-12-02",
+      "product_code": "CC",
+      "repayment_count": 187,
+      "loan_count": 172,
+      "due_amount": "77676.75",
+      "paid_amount": "26966.92",
+      "repayment_completion_rate": "0.3472",
+      "delinquent_event_count": 144
+    },
+    {
+      "report_date": "2024-12-02",
+      "product_code": "HL",
+      "repayment_count": 216,
+      "loan_count": 200,
+      "due_amount": "90608.66",
+      "paid_amount": "26192.27",
+      "repayment_completion_rate": "0.2891",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-12-02",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 197,
+      "due_amount": "92211.39",
+      "paid_amount": "26776.68",
+      "repayment_completion_rate": "0.2904",
+      "delinquent_event_count": 187
+    },
+    {
+      "report_date": "2024-12-03",
+      "product_code": "AL",
+      "repayment_count": 185,
+      "loan_count": 167,
+      "due_amount": "77726.33",
+      "paid_amount": "25541.09",
+      "repayment_completion_rate": "0.3286",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-12-03",
+      "product_code": "CC",
+      "repayment_count": 198,
+      "loan_count": 181,
+      "due_amount": "82096.50",
+      "paid_amount": "25922.53",
+      "repayment_completion_rate": "0.3158",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-12-03",
+      "product_code": "HL",
+      "repayment_count": 208,
+      "loan_count": 188,
+      "due_amount": "89509.51",
+      "paid_amount": "25985.87",
+      "repayment_completion_rate": "0.2903",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-12-03",
+      "product_code": "PL",
+      "repayment_count": 203,
+      "loan_count": 189,
+      "due_amount": "85951.13",
+      "paid_amount": "25370.17",
+      "repayment_completion_rate": "0.2952",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-12-04",
+      "product_code": "AL",
+      "repayment_count": 209,
+      "loan_count": 195,
+      "due_amount": "88718.27",
+      "paid_amount": "30201.06",
+      "repayment_completion_rate": "0.3404",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-12-04",
+      "product_code": "CC",
+      "repayment_count": 211,
+      "loan_count": 195,
+      "due_amount": "85371.44",
+      "paid_amount": "22803.83",
+      "repayment_completion_rate": "0.2671",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-12-04",
+      "product_code": "HL",
+      "repayment_count": 190,
+      "loan_count": 172,
+      "due_amount": "86919.14",
+      "paid_amount": "25239.48",
+      "repayment_completion_rate": "0.2904",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-12-04",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 196,
+      "due_amount": "84484.20",
+      "paid_amount": "24245.59",
+      "repayment_completion_rate": "0.2870",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-12-05",
+      "product_code": "AL",
+      "repayment_count": 194,
+      "loan_count": 176,
+      "due_amount": "82001.67",
+      "paid_amount": "28864.33",
+      "repayment_completion_rate": "0.3520",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-12-05",
+      "product_code": "CC",
+      "repayment_count": 216,
+      "loan_count": 194,
+      "due_amount": "95163.89",
+      "paid_amount": "25667.75",
+      "repayment_completion_rate": "0.2697",
+      "delinquent_event_count": 180
+    },
+    {
+      "report_date": "2024-12-05",
+      "product_code": "HL",
+      "repayment_count": 242,
+      "loan_count": 219,
+      "due_amount": "99006.18",
+      "paid_amount": "29425.84",
+      "repayment_completion_rate": "0.2972",
+      "delinquent_event_count": 200
+    },
+    {
+      "report_date": "2024-12-05",
+      "product_code": "PL",
+      "repayment_count": 215,
+      "loan_count": 199,
+      "due_amount": "93004.86",
+      "paid_amount": "34152.27",
+      "repayment_completion_rate": "0.3672",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-06",
+      "product_code": "AL",
+      "repayment_count": 195,
+      "loan_count": 182,
+      "due_amount": "78466.00",
+      "paid_amount": "24017.78",
+      "repayment_completion_rate": "0.3061",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-12-06",
+      "product_code": "CC",
+      "repayment_count": 240,
+      "loan_count": 212,
+      "due_amount": "98519.11",
+      "paid_amount": "27254.67",
+      "repayment_completion_rate": "0.2766",
+      "delinquent_event_count": 201
+    },
+    {
+      "report_date": "2024-12-06",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 179,
+      "due_amount": "80577.00",
+      "paid_amount": "26197.34",
+      "repayment_completion_rate": "0.3251",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-12-06",
+      "product_code": "PL",
+      "repayment_count": 215,
+      "loan_count": 195,
+      "due_amount": "86680.92",
+      "paid_amount": "29219.33",
+      "repayment_completion_rate": "0.3371",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-12-07",
+      "product_code": "AL",
+      "repayment_count": 212,
+      "loan_count": 194,
+      "due_amount": "89220.04",
+      "paid_amount": "30442.61",
+      "repayment_completion_rate": "0.3412",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-12-07",
+      "product_code": "CC",
+      "repayment_count": 210,
+      "loan_count": 187,
+      "due_amount": "87791.63",
+      "paid_amount": "29113.76",
+      "repayment_completion_rate": "0.3316",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-12-07",
+      "product_code": "HL",
+      "repayment_count": 200,
+      "loan_count": 176,
+      "due_amount": "84006.35",
+      "paid_amount": "26584.91",
+      "repayment_completion_rate": "0.3165",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-12-07",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 185,
+      "due_amount": "91125.27",
+      "paid_amount": "31424.51",
+      "repayment_completion_rate": "0.3448",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-12-08",
+      "product_code": "AL",
+      "repayment_count": 216,
+      "loan_count": 197,
+      "due_amount": "88702.40",
+      "paid_amount": "29973.67",
+      "repayment_completion_rate": "0.3379",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-12-08",
+      "product_code": "CC",
+      "repayment_count": 238,
+      "loan_count": 212,
+      "due_amount": "101755.64",
+      "paid_amount": "25964.58",
+      "repayment_completion_rate": "0.2552",
+      "delinquent_event_count": 211
+    },
+    {
+      "report_date": "2024-12-08",
+      "product_code": "HL",
+      "repayment_count": 200,
+      "loan_count": 176,
+      "due_amount": "81779.10",
+      "paid_amount": "25299.81",
+      "repayment_completion_rate": "0.3094",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-12-08",
+      "product_code": "PL",
+      "repayment_count": 198,
+      "loan_count": 176,
+      "due_amount": "77952.23",
+      "paid_amount": "26758.43",
+      "repayment_completion_rate": "0.3433",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-12-09",
+      "product_code": "AL",
+      "repayment_count": 211,
+      "loan_count": 192,
+      "due_amount": "88250.97",
+      "paid_amount": "30136.86",
+      "repayment_completion_rate": "0.3415",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-12-09",
+      "product_code": "CC",
+      "repayment_count": 209,
+      "loan_count": 195,
+      "due_amount": "86439.37",
+      "paid_amount": "25737.74",
+      "repayment_completion_rate": "0.2978",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-12-09",
+      "product_code": "HL",
+      "repayment_count": 213,
+      "loan_count": 188,
+      "due_amount": "92894.50",
+      "paid_amount": "33090.42",
+      "repayment_completion_rate": "0.3562",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-12-09",
+      "product_code": "PL",
+      "repayment_count": 210,
+      "loan_count": 193,
+      "due_amount": "93652.82",
+      "paid_amount": "31839.02",
+      "repayment_completion_rate": "0.3400",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-12-10",
+      "product_code": "AL",
+      "repayment_count": 212,
+      "loan_count": 188,
+      "due_amount": "84067.37",
+      "paid_amount": "30530.91",
+      "repayment_completion_rate": "0.3632",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-12-10",
+      "product_code": "CC",
+      "repayment_count": 228,
+      "loan_count": 202,
+      "due_amount": "93709.23",
+      "paid_amount": "31563.33",
+      "repayment_completion_rate": "0.3368",
+      "delinquent_event_count": 180
+    },
+    {
+      "report_date": "2024-12-10",
+      "product_code": "HL",
+      "repayment_count": 210,
+      "loan_count": 188,
+      "due_amount": "82516.42",
+      "paid_amount": "25184.81",
+      "repayment_completion_rate": "0.3052",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-12-10",
+      "product_code": "PL",
+      "repayment_count": 193,
+      "loan_count": 183,
+      "due_amount": "76726.26",
+      "paid_amount": "28223.05",
+      "repayment_completion_rate": "0.3678",
+      "delinquent_event_count": 147
+    },
+    {
+      "report_date": "2024-12-11",
+      "product_code": "AL",
+      "repayment_count": 203,
+      "loan_count": 187,
+      "due_amount": "86578.87",
+      "paid_amount": "33052.44",
+      "repayment_completion_rate": "0.3818",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-12-11",
+      "product_code": "CC",
+      "repayment_count": 186,
+      "loan_count": 173,
+      "due_amount": "77495.75",
+      "paid_amount": "30282.01",
+      "repayment_completion_rate": "0.3908",
+      "delinquent_event_count": 142
+    },
+    {
+      "report_date": "2024-12-11",
+      "product_code": "HL",
+      "repayment_count": 178,
+      "loan_count": 168,
+      "due_amount": "69773.83",
+      "paid_amount": "21226.23",
+      "repayment_completion_rate": "0.3042",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-12-11",
+      "product_code": "PL",
+      "repayment_count": 225,
+      "loan_count": 201,
+      "due_amount": "97461.58",
+      "paid_amount": "30702.79",
+      "repayment_completion_rate": "0.3150",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-12-12",
+      "product_code": "AL",
+      "repayment_count": 222,
+      "loan_count": 201,
+      "due_amount": "91180.79",
+      "paid_amount": "27015.56",
+      "repayment_completion_rate": "0.2963",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-12-12",
+      "product_code": "CC",
+      "repayment_count": 207,
+      "loan_count": 190,
+      "due_amount": "77325.63",
+      "paid_amount": "28271.60",
+      "repayment_completion_rate": "0.3656",
+      "delinquent_event_count": 164
+    },
+    {
+      "report_date": "2024-12-12",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 178,
+      "due_amount": "76052.24",
+      "paid_amount": "24689.18",
+      "repayment_completion_rate": "0.3246",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-12",
+      "product_code": "PL",
+      "repayment_count": 232,
+      "loan_count": 208,
+      "due_amount": "97958.39",
+      "paid_amount": "31175.12",
+      "repayment_completion_rate": "0.3182",
+      "delinquent_event_count": 190
+    },
+    {
+      "report_date": "2024-12-13",
+      "product_code": "AL",
+      "repayment_count": 214,
+      "loan_count": 189,
+      "due_amount": "89260.41",
+      "paid_amount": "28409.80",
+      "repayment_completion_rate": "0.3183",
+      "delinquent_event_count": 172
+    },
+    {
+      "report_date": "2024-12-13",
+      "product_code": "CC",
+      "repayment_count": 202,
+      "loan_count": 184,
+      "due_amount": "89294.26",
+      "paid_amount": "29470.82",
+      "repayment_completion_rate": "0.3300",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-12-13",
+      "product_code": "HL",
+      "repayment_count": 210,
+      "loan_count": 190,
+      "due_amount": "87324.33",
+      "paid_amount": "25988.64",
+      "repayment_completion_rate": "0.2976",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-12-13",
+      "product_code": "PL",
+      "repayment_count": 212,
+      "loan_count": 194,
+      "due_amount": "91223.63",
+      "paid_amount": "29627.62",
+      "repayment_completion_rate": "0.3248",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-12-14",
+      "product_code": "AL",
+      "repayment_count": 202,
+      "loan_count": 187,
+      "due_amount": "84580.57",
+      "paid_amount": "28258.98",
+      "repayment_completion_rate": "0.3341",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-12-14",
+      "product_code": "CC",
+      "repayment_count": 210,
+      "loan_count": 191,
+      "due_amount": "86262.94",
+      "paid_amount": "29327.94",
+      "repayment_completion_rate": "0.3400",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-12-14",
+      "product_code": "HL",
+      "repayment_count": 232,
+      "loan_count": 206,
+      "due_amount": "98319.53",
+      "paid_amount": "29649.10",
+      "repayment_completion_rate": "0.3016",
+      "delinquent_event_count": 190
+    },
+    {
+      "report_date": "2024-12-14",
+      "product_code": "PL",
+      "repayment_count": 202,
+      "loan_count": 184,
+      "due_amount": "88044.77",
+      "paid_amount": "26292.77",
+      "repayment_completion_rate": "0.2986",
+      "delinquent_event_count": 157
+    },
+    {
+      "report_date": "2024-12-15",
+      "product_code": "AL",
+      "repayment_count": 179,
+      "loan_count": 169,
+      "due_amount": "71920.20",
+      "paid_amount": "23467.18",
+      "repayment_completion_rate": "0.3263",
+      "delinquent_event_count": 135
+    },
+    {
+      "report_date": "2024-12-15",
+      "product_code": "CC",
+      "repayment_count": 199,
+      "loan_count": 178,
+      "due_amount": "79955.68",
+      "paid_amount": "21953.85",
+      "repayment_completion_rate": "0.2746",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-12-15",
+      "product_code": "HL",
+      "repayment_count": 198,
+      "loan_count": 181,
+      "due_amount": "87467.79",
+      "paid_amount": "29461.16",
+      "repayment_completion_rate": "0.3368",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-15",
+      "product_code": "PL",
+      "repayment_count": 221,
+      "loan_count": 195,
+      "due_amount": "90321.94",
+      "paid_amount": "30168.55",
+      "repayment_completion_rate": "0.3340",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-12-16",
+      "product_code": "AL",
+      "repayment_count": 182,
+      "loan_count": 164,
+      "due_amount": "78500.95",
+      "paid_amount": "23107.67",
+      "repayment_completion_rate": "0.2944",
+      "delinquent_event_count": 148
+    },
+    {
+      "report_date": "2024-12-16",
+      "product_code": "CC",
+      "repayment_count": 227,
+      "loan_count": 207,
+      "due_amount": "95987.33",
+      "paid_amount": "32899.40",
+      "repayment_completion_rate": "0.3427",
+      "delinquent_event_count": 180
+    },
+    {
+      "report_date": "2024-12-16",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 174,
+      "due_amount": "81666.94",
+      "paid_amount": "26257.93",
+      "repayment_completion_rate": "0.3215",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-12-16",
+      "product_code": "PL",
+      "repayment_count": 219,
+      "loan_count": 199,
+      "due_amount": "90741.30",
+      "paid_amount": "25971.60",
+      "repayment_completion_rate": "0.2862",
+      "delinquent_event_count": 177
+    },
+    {
+      "report_date": "2024-12-17",
+      "product_code": "AL",
+      "repayment_count": 175,
+      "loan_count": 160,
+      "due_amount": "68983.02",
+      "paid_amount": "18915.68",
+      "repayment_completion_rate": "0.2742",
+      "delinquent_event_count": 142
+    },
+    {
+      "report_date": "2024-12-17",
+      "product_code": "CC",
+      "repayment_count": 190,
+      "loan_count": 174,
+      "due_amount": "71178.21",
+      "paid_amount": "21512.94",
+      "repayment_completion_rate": "0.3022",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-12-17",
+      "product_code": "HL",
+      "repayment_count": 218,
+      "loan_count": 195,
+      "due_amount": "85638.34",
+      "paid_amount": "26128.91",
+      "repayment_completion_rate": "0.3051",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-12-17",
+      "product_code": "PL",
+      "repayment_count": 194,
+      "loan_count": 177,
+      "due_amount": "81196.70",
+      "paid_amount": "27220.19",
+      "repayment_completion_rate": "0.3352",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-12-18",
+      "product_code": "AL",
+      "repayment_count": 216,
+      "loan_count": 194,
+      "due_amount": "87214.00",
+      "paid_amount": "28060.07",
+      "repayment_completion_rate": "0.3217",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-12-18",
+      "product_code": "CC",
+      "repayment_count": 199,
+      "loan_count": 185,
+      "due_amount": "84727.12",
+      "paid_amount": "30773.79",
+      "repayment_completion_rate": "0.3632",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-12-18",
+      "product_code": "HL",
+      "repayment_count": 197,
+      "loan_count": 186,
+      "due_amount": "79045.13",
+      "paid_amount": "29371.54",
+      "repayment_completion_rate": "0.3716",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-12-18",
+      "product_code": "PL",
+      "repayment_count": 230,
+      "loan_count": 205,
+      "due_amount": "96226.52",
+      "paid_amount": "31563.07",
+      "repayment_completion_rate": "0.3280",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-12-19",
+      "product_code": "AL",
+      "repayment_count": 207,
+      "loan_count": 188,
+      "due_amount": "89351.75",
+      "paid_amount": "27103.93",
+      "repayment_completion_rate": "0.3033",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-12-19",
+      "product_code": "CC",
+      "repayment_count": 225,
+      "loan_count": 204,
+      "due_amount": "91576.80",
+      "paid_amount": "27069.18",
+      "repayment_completion_rate": "0.2956",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-12-19",
+      "product_code": "HL",
+      "repayment_count": 189,
+      "loan_count": 173,
+      "due_amount": "74704.09",
+      "paid_amount": "25889.43",
+      "repayment_completion_rate": "0.3466",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-12-19",
+      "product_code": "PL",
+      "repayment_count": 195,
+      "loan_count": 180,
+      "due_amount": "82485.99",
+      "paid_amount": "27702.58",
+      "repayment_completion_rate": "0.3358",
+      "delinquent_event_count": 156
+    },
+    {
+      "report_date": "2024-12-20",
+      "product_code": "AL",
+      "repayment_count": 233,
+      "loan_count": 210,
+      "due_amount": "97990.67",
+      "paid_amount": "28352.47",
+      "repayment_completion_rate": "0.2893",
+      "delinquent_event_count": 198
+    },
+    {
+      "report_date": "2024-12-20",
+      "product_code": "CC",
+      "repayment_count": 205,
+      "loan_count": 184,
+      "due_amount": "83388.32",
+      "paid_amount": "33747.00",
+      "repayment_completion_rate": "0.4047",
+      "delinquent_event_count": 149
+    },
+    {
+      "report_date": "2024-12-20",
+      "product_code": "HL",
+      "repayment_count": 193,
+      "loan_count": 172,
+      "due_amount": "83004.79",
+      "paid_amount": "24758.49",
+      "repayment_completion_rate": "0.2983",
+      "delinquent_event_count": 155
+    },
+    {
+      "report_date": "2024-12-20",
+      "product_code": "PL",
+      "repayment_count": 244,
+      "loan_count": 221,
+      "due_amount": "104083.09",
+      "paid_amount": "28127.15",
+      "repayment_completion_rate": "0.2702",
+      "delinquent_event_count": 199
+    },
+    {
+      "report_date": "2024-12-21",
+      "product_code": "AL",
+      "repayment_count": 210,
+      "loan_count": 185,
+      "due_amount": "84629.04",
+      "paid_amount": "26643.35",
+      "repayment_completion_rate": "0.3148",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-12-21",
+      "product_code": "CC",
+      "repayment_count": 210,
+      "loan_count": 192,
+      "due_amount": "83759.31",
+      "paid_amount": "29589.25",
+      "repayment_completion_rate": "0.3533",
+      "delinquent_event_count": 160
+    },
+    {
+      "report_date": "2024-12-21",
+      "product_code": "HL",
+      "repayment_count": 207,
+      "loan_count": 186,
+      "due_amount": "83794.86",
+      "paid_amount": "25559.71",
+      "repayment_completion_rate": "0.3050",
+      "delinquent_event_count": 171
+    },
+    {
+      "report_date": "2024-12-21",
+      "product_code": "PL",
+      "repayment_count": 231,
+      "loan_count": 207,
+      "due_amount": "96514.19",
+      "paid_amount": "29474.66",
+      "repayment_completion_rate": "0.3054",
+      "delinquent_event_count": 195
+    },
+    {
+      "report_date": "2024-12-22",
+      "product_code": "AL",
+      "repayment_count": 214,
+      "loan_count": 198,
+      "due_amount": "90031.45",
+      "paid_amount": "29420.75",
+      "repayment_completion_rate": "0.3268",
+      "delinquent_event_count": 170
+    },
+    {
+      "report_date": "2024-12-22",
+      "product_code": "CC",
+      "repayment_count": 215,
+      "loan_count": 202,
+      "due_amount": "89131.42",
+      "paid_amount": "32664.14",
+      "repayment_completion_rate": "0.3665",
+      "delinquent_event_count": 167
+    },
+    {
+      "report_date": "2024-12-22",
+      "product_code": "HL",
+      "repayment_count": 217,
+      "loan_count": 199,
+      "due_amount": "89690.43",
+      "paid_amount": "31058.25",
+      "repayment_completion_rate": "0.3463",
+      "delinquent_event_count": 165
+    },
+    {
+      "report_date": "2024-12-22",
+      "product_code": "PL",
+      "repayment_count": 246,
+      "loan_count": 221,
+      "due_amount": "103145.02",
+      "paid_amount": "34341.12",
+      "repayment_completion_rate": "0.3329",
+      "delinquent_event_count": 189
+    },
+    {
+      "report_date": "2024-12-23",
+      "product_code": "AL",
+      "repayment_count": 203,
+      "loan_count": 178,
+      "due_amount": "83719.63",
+      "paid_amount": "23261.59",
+      "repayment_completion_rate": "0.2779",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-12-23",
+      "product_code": "CC",
+      "repayment_count": 215,
+      "loan_count": 197,
+      "due_amount": "92661.87",
+      "paid_amount": "32842.14",
+      "repayment_completion_rate": "0.3544",
+      "delinquent_event_count": 169
+    },
+    {
+      "report_date": "2024-12-23",
+      "product_code": "HL",
+      "repayment_count": 215,
+      "loan_count": 198,
+      "due_amount": "88767.22",
+      "paid_amount": "30953.53",
+      "repayment_completion_rate": "0.3487",
+      "delinquent_event_count": 166
+    },
+    {
+      "report_date": "2024-12-23",
+      "product_code": "PL",
+      "repayment_count": 227,
+      "loan_count": 209,
+      "due_amount": "95264.79",
+      "paid_amount": "29931.23",
+      "repayment_completion_rate": "0.3142",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-12-24",
+      "product_code": "AL",
+      "repayment_count": 204,
+      "loan_count": 184,
+      "due_amount": "83801.48",
+      "paid_amount": "31888.43",
+      "repayment_completion_rate": "0.3805",
+      "delinquent_event_count": 154
+    },
+    {
+      "report_date": "2024-12-24",
+      "product_code": "CC",
+      "repayment_count": 207,
+      "loan_count": 190,
+      "due_amount": "85962.07",
+      "paid_amount": "24693.39",
+      "repayment_completion_rate": "0.2873",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-12-24",
+      "product_code": "HL",
+      "repayment_count": 239,
+      "loan_count": 217,
+      "due_amount": "98334.14",
+      "paid_amount": "31970.63",
+      "repayment_completion_rate": "0.3251",
+      "delinquent_event_count": 194
+    },
+    {
+      "report_date": "2024-12-24",
+      "product_code": "PL",
+      "repayment_count": 219,
+      "loan_count": 198,
+      "due_amount": "87773.66",
+      "paid_amount": "26941.38",
+      "repayment_completion_rate": "0.3069",
+      "delinquent_event_count": 179
+    },
+    {
+      "report_date": "2024-12-25",
+      "product_code": "AL",
+      "repayment_count": 200,
+      "loan_count": 178,
+      "due_amount": "83057.57",
+      "paid_amount": "24286.81",
+      "repayment_completion_rate": "0.2924",
+      "delinquent_event_count": 162
+    },
+    {
+      "report_date": "2024-12-25",
+      "product_code": "CC",
+      "repayment_count": 196,
+      "loan_count": 178,
+      "due_amount": "76480.13",
+      "paid_amount": "25753.10",
+      "repayment_completion_rate": "0.3367",
+      "delinquent_event_count": 151
+    },
+    {
+      "report_date": "2024-12-25",
+      "product_code": "HL",
+      "repayment_count": 206,
+      "loan_count": 188,
+      "due_amount": "86879.63",
+      "paid_amount": "31141.35",
+      "repayment_completion_rate": "0.3584",
+      "delinquent_event_count": 159
+    },
+    {
+      "report_date": "2024-12-25",
+      "product_code": "PL",
+      "repayment_count": 229,
+      "loan_count": 210,
+      "due_amount": "98259.45",
+      "paid_amount": "32771.78",
+      "repayment_completion_rate": "0.3335",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-12-26",
+      "product_code": "AL",
+      "repayment_count": 207,
+      "loan_count": 186,
+      "due_amount": "86272.36",
+      "paid_amount": "31284.78",
+      "repayment_completion_rate": "0.3626",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-26",
+      "product_code": "CC",
+      "repayment_count": 196,
+      "loan_count": 184,
+      "due_amount": "78621.56",
+      "paid_amount": "25380.29",
+      "repayment_completion_rate": "0.3228",
+      "delinquent_event_count": 161
+    },
+    {
+      "report_date": "2024-12-26",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 175,
+      "due_amount": "79056.74",
+      "paid_amount": "22638.80",
+      "repayment_completion_rate": "0.2864",
+      "delinquent_event_count": 163
+    },
+    {
+      "report_date": "2024-12-26",
+      "product_code": "PL",
+      "repayment_count": 222,
+      "loan_count": 200,
+      "due_amount": "89930.01",
+      "paid_amount": "25831.90",
+      "repayment_completion_rate": "0.2872",
+      "delinquent_event_count": 181
+    },
+    {
+      "report_date": "2024-12-27",
+      "product_code": "AL",
+      "repayment_count": 216,
+      "loan_count": 196,
+      "due_amount": "86896.36",
+      "paid_amount": "25487.30",
+      "repayment_completion_rate": "0.2933",
+      "delinquent_event_count": 178
+    },
+    {
+      "report_date": "2024-12-27",
+      "product_code": "CC",
+      "repayment_count": 199,
+      "loan_count": 179,
+      "due_amount": "82006.17",
+      "paid_amount": "28438.82",
+      "repayment_completion_rate": "0.3468",
+      "delinquent_event_count": 152
+    },
+    {
+      "report_date": "2024-12-27",
+      "product_code": "HL",
+      "repayment_count": 196,
+      "loan_count": 177,
+      "due_amount": "73588.68",
+      "paid_amount": "24578.97",
+      "repayment_completion_rate": "0.3340",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-27",
+      "product_code": "PL",
+      "repayment_count": 231,
+      "loan_count": 209,
+      "due_amount": "93494.38",
+      "paid_amount": "28081.73",
+      "repayment_completion_rate": "0.3004",
+      "delinquent_event_count": 184
+    },
+    {
+      "report_date": "2024-12-28",
+      "product_code": "AL",
+      "repayment_count": 196,
+      "loan_count": 179,
+      "due_amount": "80677.14",
+      "paid_amount": "26413.02",
+      "repayment_completion_rate": "0.3274",
+      "delinquent_event_count": 158
+    },
+    {
+      "report_date": "2024-12-28",
+      "product_code": "CC",
+      "repayment_count": 231,
+      "loan_count": 213,
+      "due_amount": "87944.68",
+      "paid_amount": "25313.25",
+      "repayment_completion_rate": "0.2878",
+      "delinquent_event_count": 186
+    },
+    {
+      "report_date": "2024-12-28",
+      "product_code": "HL",
+      "repayment_count": 219,
+      "loan_count": 194,
+      "due_amount": "88300.38",
+      "paid_amount": "26331.48",
+      "repayment_completion_rate": "0.2982",
+      "delinquent_event_count": 175
+    },
+    {
+      "report_date": "2024-12-28",
+      "product_code": "PL",
+      "repayment_count": 239,
+      "loan_count": 212,
+      "due_amount": "93789.11",
+      "paid_amount": "25504.49",
+      "repayment_completion_rate": "0.2719",
+      "delinquent_event_count": 199
+    },
+    {
+      "report_date": "2024-12-29",
+      "product_code": "AL",
+      "repayment_count": 215,
+      "loan_count": 186,
+      "due_amount": "88002.53",
+      "paid_amount": "29412.58",
+      "repayment_completion_rate": "0.3342",
+      "delinquent_event_count": 174
+    },
+    {
+      "report_date": "2024-12-29",
+      "product_code": "CC",
+      "repayment_count": 217,
+      "loan_count": 199,
+      "due_amount": "89628.40",
+      "paid_amount": "28450.87",
+      "repayment_completion_rate": "0.3174",
+      "delinquent_event_count": 168
+    },
+    {
+      "report_date": "2024-12-29",
+      "product_code": "HL",
+      "repayment_count": 192,
+      "loan_count": 177,
+      "due_amount": "83002.15",
+      "paid_amount": "28395.75",
+      "repayment_completion_rate": "0.3421",
+      "delinquent_event_count": 150
+    },
+    {
+      "report_date": "2024-12-29",
+      "product_code": "PL",
+      "repayment_count": 206,
+      "loan_count": 188,
+      "due_amount": "90192.10",
+      "paid_amount": "27339.57",
+      "repayment_completion_rate": "0.3031",
+      "delinquent_event_count": 168
+    }
+  ]
+}

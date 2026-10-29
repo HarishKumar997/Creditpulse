@@ -1,0 +1,4 @@
+customer_id,created_at,region_code,customer_segment,status,source_updated_at
+cust-sample-001,2023-04-01T00:00:00Z,R-NORTH,retail,active,2023-04-01T00:00:00Z
+cust-sample-002,2023-05-12T00:00:00Z,R-SOUTH,sme,active,2023-05-12T00:00:00Z
+cust-sample-003,2023-06-20T00:00:00Z,R-EAST,premium,dormant,2023-06-20T00:00:00Z

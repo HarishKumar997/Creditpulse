@@ -1,0 +1,5 @@
+# pyarrow stays on 16.1.0 because that is the version pinned by Airflow 2.10.4 constraints.
+# dbt is installed in a separate virtualenv (/opt/dbt) so it does not have to share those pins.
+pyspark==3.5.3
+pyarrow==16.1.0
+psycopg[binary]==3.2.3

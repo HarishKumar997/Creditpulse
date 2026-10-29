@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: staging
+    schema: staging
+    description: Accepted rows loaded from Silver. Quarantined rows stay out of these tables.
+    tables:
+      - name: customer_version
+      - name: account
+      - name: loan
+      - name: repayment
+      - name: quarantine

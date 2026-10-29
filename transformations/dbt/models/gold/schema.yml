@@ -1,0 +1,116 @@
+version: 2
+
+models:
+  - name: dim_customer
+    description: SCD Type 2 customer history. One row per customer version.
+    columns:
+      - name: customer_sk
+        tests: [unique, not_null]
+      - name: customer_id
+        tests: [not_null]
+      - name: customer_segment
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["retail", "sme", "premium"]
+      - name: status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["active", "dormant", "closed"]
+      - name: is_current
+        tests: [not_null]
+
+  - name: dim_customer_current
+    description: The current SCD2 version of each customer. Parent for relationships.
+    columns:
+      - name: customer_id
+        tests: [unique, not_null]
+
+  - name: dim_account
+    columns:
+      - name: account_id
+        tests: [unique, not_null]
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref("dim_customer_current")
+              field: customer_id
+      - name: account_type
+        tests:
+          - accepted_values:
+              values: ["checking", "savings", "credit"]
+      - name: status
+        tests:
+          - accepted_values:
+              values: ["open", "closed"]
+
+  - name: dim_loan
+    columns:
+      - name: loan_id
+        tests: [unique, not_null]
+      - name: account_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref("dim_account")
+              field: account_id
+      - name: product_code
+        tests:
+          - accepted_values:
+              values: ["PL", "HL", "AL", "CC"]
+      - name: origination_date
+        tests: [not_null]
+      - name: maturity_date
+        tests: [not_null]
+
+  - name: dim_date
+    columns:
+      - name: date_day
+        tests: [unique, not_null]
+
+  - name: fact_repayment
+    description: One row per accepted repayment event.
+    columns:
+      - name: repayment_id
+        tests: [unique, not_null]
+      - name: loan_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref("dim_loan")
+              field: loan_id
+      - name: due_amount
+        tests: [not_null]
+      - name: paid_amount
+        tests: [not_null]
+      - name: payment_status
+        tests:
+          - accepted_values:
+              values: ["paid", "partial", "late", "missed", "scheduled"]
+
+  - name: fact_loan_snapshot
+    description: One row per loan on the pipeline as-of date.
+    columns:
+      - name: loan_id
+        tests: [unique, not_null]
+      - name: snapshot_date
+        tests: [not_null]
+      - name: delinquency_bucket
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["current", "dpd_1_30", "dpd_31_60", "dpd_61_90", "dpd_90_plus"]
+
+  - name: agg_portfolio_daily
+    description: Payment activity by event date and product. Delinquency stock is on fact_loan_snapshot.
+    columns:
+      - name: report_date
+        tests: [not_null]
+      - name: product_code
+        tests: [not_null]
+      - name: due_amount
+        tests: [not_null]
+      - name: paid_amount
+        tests: [not_null]

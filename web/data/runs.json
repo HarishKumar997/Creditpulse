@@ -1,0 +1,58 @@
+{
+  "schema_version": "1",
+  "disclaimer": "Synthetic demonstration data only. CreditPulse does not make lending decisions and is not a credit bureau.",
+  "runs": [
+    {
+      "run_id": "cbdedaee-7e75-468c-a299-dc3730f82d72",
+      "batch_id": "seed-42-n-100000",
+      "status": "success",
+      "started_at": "2026-10-29T11:34:51Z",
+      "finished_at": "2026-10-29T11:37:49Z",
+      "rows_read": 112345,
+      "rows_accepted": 112336,
+      "rows_rejected": 7,
+      "rows_duplicate": 2,
+      "error_summary": null,
+      "step": null
+    },
+    {
+      "run_id": "manual__2026-10-29T11:29:45+00:00-publish-1",
+      "batch_id": "retry-demo",
+      "status": "failed",
+      "started_at": "2026-10-29T11:17:14Z",
+      "finished_at": "2026-10-29T11:31:19Z",
+      "rows_read": 270,
+      "rows_accepted": 139,
+      "rows_rejected": 7,
+      "rows_duplicate": 263,
+      "error_summary": "simulated failure before watermark commit",
+      "step": "publish"
+    },
+    {
+      "run_id": "manual__2026-10-29T11:29:45+00:00-publish-2",
+      "batch_id": "retry-demo",
+      "status": "success",
+      "started_at": "2026-10-29T11:17:14Z",
+      "finished_at": "2026-10-29T11:31:36Z",
+      "rows_read": 270,
+      "rows_accepted": 139,
+      "rows_rejected": 7,
+      "rows_duplicate": 263,
+      "error_summary": null,
+      "step": null
+    },
+    {
+      "run_id": "198ab635-c8be-4e64-825f-25f39fa8099b",
+      "batch_id": "seed-42-n-100000",
+      "status": "success",
+      "started_at": "2026-10-29T10:55:45Z",
+      "finished_at": "2026-10-29T11:00:53Z",
+      "rows_read": 112345,
+      "rows_accepted": 112336,
+      "rows_rejected": 7,
+      "rows_duplicate": 2,
+      "error_summary": null,
+      "step": null
+    }
+  ]
+}

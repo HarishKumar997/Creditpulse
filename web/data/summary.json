@@ -1,0 +1,53 @@
+{
+  "schema_version": "1",
+  "disclaimer": "Synthetic demonstration data only. CreditPulse does not make lending decisions and is not a credit bureau.",
+  "as_of_date": "2024-12-31",
+  "generated_at": "2026-10-29T11:38:40Z",
+  "batch_id": "seed-42-n-100000",
+  "loans": 4000,
+  "customers": 4000,
+  "outstanding_balance_proxy": "88504374.40",
+  "repayment_completion_rate": "0.3205",
+  "delinquency_rate": "1.0000",
+  "accepted": 112336,
+  "rejected": 7,
+  "duplicates": 2,
+  "buckets": [
+    {
+      "id": "dpd_61_90",
+      "label": "61\u201390 days past due",
+      "loans": 11
+    },
+    {
+      "id": "dpd_90_plus",
+      "label": "90+ days past due",
+      "loans": 3989
+    }
+  ],
+  "products": [
+    {
+      "product_code": "AL",
+      "loans": 974,
+      "outstanding_balance_proxy": "21210273.81",
+      "delinquent_loans": 974
+    },
+    {
+      "product_code": "CC",
+      "loans": 1022,
+      "outstanding_balance_proxy": "22810457.27",
+      "delinquent_loans": 1022
+    },
+    {
+      "product_code": "HL",
+      "loans": 971,
+      "outstanding_balance_proxy": "21141373.07",
+      "delinquent_loans": 971
+    },
+    {
+      "product_code": "PL",
+      "loans": 1033,
+      "outstanding_balance_proxy": "23342270.25",
+      "delinquent_loans": 1033
+    }
+  ]
+}

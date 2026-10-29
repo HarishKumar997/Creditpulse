@@ -1,0 +1,38 @@
+{
+  "schema_version": "1",
+  "disclaimer": "Synthetic demonstration data only. CreditPulse does not make lending decisions and is not a credit bureau.",
+  "batch_id": "seed-42-n-100000",
+  "generated_at": "2026-10-29T11:38:40Z",
+  "rejected_by_reason": [
+    {
+      "reason": "BAD_DATE_ORDER",
+      "rows": 1
+    },
+    {
+      "reason": "INVALID_TYPE",
+      "rows": 1
+    },
+    {
+      "reason": "MISSING_REQUIRED",
+      "rows": 2
+    },
+    {
+      "reason": "NEGATIVE_AMOUNT",
+      "rows": 1
+    },
+    {
+      "reason": "ORPHAN_FK",
+      "rows": 1
+    },
+    {
+      "reason": "UNKNOWN_STATUS",
+      "rows": 1
+    }
+  ],
+  "reconciliation": {
+    "status": "pass",
+    "due_amount": "41186839.42",
+    "paid_amount": "13199273.72",
+    "rows": 100000
+  }
+}
